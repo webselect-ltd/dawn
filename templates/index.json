@@ -24,13 +24,13 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/classic-flowering-lawn.jpg",
-        "image_overlay_opacity": 40,
+        "image_overlay_opacity": 60,
         "image_height": "small",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "scheme-4",
-        "image_behavior": "none",
+        "image_behavior": "ambient",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
@@ -52,7 +52,7 @@
             "text": "<p>Meadow in my Garden is a community interest company, supporting gardening for wildlife in all kinds of outdoor spaces. Our aim is to make gardening accessible and inclusive and to create flourishing environments for people and pollinators.<\/p>"
           }
         },
-        "92e965e0-2b34-404a-9820-78c99fe831d3": {
+        "2c0c2a17-0ff3-4de4-9e82-96f208304af3": {
           "type": "text",
           "settings": {
             "text": "<p>We have masses of fresh seeds ready to be gifted this Christmas, whether for a sizeable corner of the garden or planting in pots on the patio - we have a mix for every gardener!<\/p>"
@@ -62,7 +62,7 @@
       "block_order": [
         "heading",
         "text",
-        "92e965e0-2b34-404a-9820-78c99fe831d3"
+        "2c0c2a17-0ff3-4de4-9e82-96f208304af3"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -77,12 +77,12 @@
       "type": "video",
       "settings": {
         "heading": "THE MAKING OF FLOWER MEADOW - RHS ROSEMOOR",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "enable_video_looping": false,
         "video_url": "https:\/\/www.youtube.com\/watch?v=43bt6nziQ_g",
         "cover_image": "shopify:\/\/shop_images\/classic-flowering-lawn.jpg",
         "description": "The making of flower meadow",
-        "full_width": true,
+        "full_width": false,
         "color_scheme": "scheme-1",
         "padding_top": 36,
         "padding_bottom": 36
