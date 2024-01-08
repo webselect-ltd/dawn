@@ -135,48 +135,6 @@
         "padding_bottom": 36
       }
     },
-    "bc129793-3812-4eb2-813e-85f508776303": {
-      "type": "rich-text",
-      "blocks": {
-        "template--21854089085222__bc129793-3812-4eb2-813e-85f508776303-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Make a donation",
-            "heading_size": "h1"
-          }
-        },
-        "template--21854089085222__bc129793-3812-4eb2-813e-85f508776303-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Your donation will go directly to creating new biodiversity projects across the UK - Thank you for your support<\/p>"
-          }
-        },
-        "template--21854089085222__bc129793-3812-4eb2-813e-85f508776303-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Donate",
-            "button_link": "https:\/\/www.paypal.com\/donate?token=3UFEgZPZIjTX3oKSMRpowfX4vqEVFiDfOpdlxKws_h1LEi98NM7WzzUrjKiWVrc7dw-6GnGehduUlipQ",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--21854089085222__bc129793-3812-4eb2-813e-85f508776303-heading-1",
-        "template--21854089085222__bc129793-3812-4eb2-813e-85f508776303-text-1",
-        "template--21854089085222__bc129793-3812-4eb2-813e-85f508776303-button-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "bb506e34-0c4d-41f1-b3a5-5d72dc3aa380": {
       "type": "image-with-text",
       "blocks": {
@@ -223,6 +181,48 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "bc129793-3812-4eb2-813e-85f508776303": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21854089085222__bc129793-3812-4eb2-813e-85f508776303-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Make a donation",
+            "heading_size": "h1"
+          }
+        },
+        "template--21854089085222__bc129793-3812-4eb2-813e-85f508776303-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Your donation will go directly to creating new biodiversity projects across the UK - Thank you for your support<\/p>"
+          }
+        },
+        "template--21854089085222__bc129793-3812-4eb2-813e-85f508776303-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Donate",
+            "button_link": "https:\/\/www.paypal.com\/donate?token=3UFEgZPZIjTX3oKSMRpowfX4vqEVFiDfOpdlxKws_h1LEi98NM7WzzUrjKiWVrc7dw-6GnGehduUlipQ",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21854089085222__bc129793-3812-4eb2-813e-85f508776303-heading-1",
+        "template--21854089085222__bc129793-3812-4eb2-813e-85f508776303-text-1",
+        "template--21854089085222__bc129793-3812-4eb2-813e-85f508776303-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-1",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
     }
   },
   "order": [
@@ -230,7 +230,7 @@
     "rich_text",
     "video",
     "367e95c5-95fb-43ab-b2e7-67c5b3fb1aaf",
-    "bc129793-3812-4eb2-813e-85f508776303",
-    "bb506e34-0c4d-41f1-b3a5-5d72dc3aa380"
+    "bb506e34-0c4d-41f1-b3a5-5d72dc3aa380",
+    "bc129793-3812-4eb2-813e-85f508776303"
   ]
 }
