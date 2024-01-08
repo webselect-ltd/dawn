@@ -25,7 +25,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/classic-flowering-lawn.jpg",
         "image_overlay_opacity": 60,
-        "image_height": "small",
+        "image_height": "medium",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
