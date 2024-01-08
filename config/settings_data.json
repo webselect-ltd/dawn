@@ -193,7 +193,7 @@
           "text": "#fff",
           "button": "#00b6a4",
           "button_label": "#ffffff",
-          "secondary_button_label": "#00b6a4",
+          "secondary_button_label": "#fff",
           "shadow": "#121212"
         }
       }

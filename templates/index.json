@@ -134,12 +134,60 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "bb506e34-0c4d-41f1-b3a5-5d72dc3aa380": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21854089085222__bb506e34-0c4d-41f1-b3a5-5d72dc3aa380-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>What we do...<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "template--21854089085222__bb506e34-0c4d-41f1-b3a5-5d72dc3aa380-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>For over 10 years we have been helping people to go wild in their gardens and working with community groups, councils and landscapers across the UK to create wildlife friendly planting schemes. <\/p><p>All our meadow seed mixes are designed for biodiversity and are carefully selected for maximum wildlife benefit, attracting birds, butterflies and bees as well as providing a beautiful display over a long flowering season.<\/p><p>Please <a href=\"\/pages\/contact-us\" target=\"_blank\" title=\"Contact Us\">contact us<\/a> (Paul & LouLou) for free help & advice.<\/p><p><em>Meadow In My Garden is a not-for-profit community interest company.<\/em><\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--21854089085222__bb506e34-0c4d-41f1-b3a5-5d72dc3aa380-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Contact Us",
+            "button_link": "shopify:\/\/pages\/contact-us",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "template--21854089085222__bb506e34-0c4d-41f1-b3a5-5d72dc3aa380-heading-1",
+        "template--21854089085222__bb506e34-0c4d-41f1-b3a5-5d72dc3aa380-text-1",
+        "template--21854089085222__bb506e34-0c4d-41f1-b3a5-5d72dc3aa380-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MIMG_PJ.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "",
+        "color_scheme": "scheme-311b219e-937f-4559-b291-b2cd1d980730",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "image_banner",
     "rich_text",
     "video",
-    "367e95c5-95fb-43ab-b2e7-67c5b3fb1aaf"
+    "367e95c5-95fb-43ab-b2e7-67c5b3fb1aaf",
+    "bb506e34-0c4d-41f1-b3a5-5d72dc3aa380"
   ]
 }
