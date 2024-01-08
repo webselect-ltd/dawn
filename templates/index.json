@@ -6,41 +6,31 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
-            "heading_size": "h0"
+            "heading": "Meadow in my garden",
+            "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "button": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify://collections/all",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "text": "Meadow in my Garden is a community interest company, supporting gardening for wildlife in all kinds of outdoor spaces. Our aim is to make gardening accessible and inclusive and to create flourishing environments for people and pollinators.",
+            "text_style": "subtitle"
           }
         }
       },
       "block_order": [
         "heading",
-        "text",
-        "button"
+        "text"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/classic-flowering-lawn.jpg",
         "image_overlay_opacity": 40,
-        "image_height": "large",
-        "desktop_content_position": "bottom-center",
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
-        "color_scheme": "scheme-3",
+        "color_scheme": "scheme-4",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
@@ -59,19 +49,43 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Meadow in my Garden is a community interest company, supporting gardening for wildlife in all kinds of outdoor spaces. Our aim is to make gardening accessible and inclusive and to create flourishing environments for people and pollinators.<\/p>"
+          }
+        },
+        "92e965e0-2b34-404a-9820-78c99fe831d3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We have masses of fresh seeds ready to be gifted this Christmas, whether for a sizeable corner of the garden or planting in pots on the patio - we have a mix for every gardener!<\/p>"
           }
         }
       },
       "block_order": [
         "heading",
-        "text"
+        "text",
+        "92e965e0-2b34-404a-9820-78c99fe831d3"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "scheme-1",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 0
+      }
+    },
+    "video": {
+      "type": "video",
+      "settings": {
+        "heading": "THE MAKING OF FLOWER MEADOW - RHS ROSEMOOR",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=43bt6nziQ_g",
+        "cover_image": "shopify:\/\/shop_images\/classic-flowering-lawn.jpg",
+        "description": "The making of flower meadow",
+        "full_width": true,
+        "color_scheme": "scheme-1",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "featured_collection": {
@@ -79,17 +93,25 @@
       "settings": {
         "title": "Featured products",
         "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
         "collection": "all",
         "products_to_show": 8,
         "columns_desktop": 4,
-        "color_scheme": "scheme-1",
+        "full_width": false,
         "show_view_all": false,
-        "swipe_on_mobile": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1",
         "image_ratio": "adapt",
+        "image_shape": "default",
         "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
+        "enable_quick_add": false,
         "columns_mobile": "2",
+        "swipe_on_mobile": false,
         "padding_top": 28,
         "padding_bottom": 36
       }
@@ -127,19 +149,7 @@
         "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "collage",
-        "color_scheme": "scheme-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "video": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "heading_size": "h1",
-        "description": "",
-        "full_width": false,
+        "card_styles": "product-card-wrapper",
         "color_scheme": "scheme-1",
         "padding_top": 36,
         "padding_bottom": 36
@@ -191,9 +201,9 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "swipe_on_mobile": false,
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -202,9 +212,9 @@
   "order": [
     "image_banner",
     "rich_text",
+    "video",
     "featured_collection",
     "collage",
-    "video",
     "multicolumn"
   ]
 }
