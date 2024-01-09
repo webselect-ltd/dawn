@@ -108,7 +108,7 @@
     "predictive_search_enabled": true,
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": false,
-    "currency_code_enabled": true,
+    "currency_code_enabled": false,
     "cart_type": "notification",
     "show_vendor": false,
     "show_cart_note": false,
@@ -190,10 +190,10 @@
         "settings": {
           "background": "#00b6a4",
           "background_gradient": "",
-          "text": "#fff",
+          "text": "#ffffff",
           "button": "#00b6a4",
           "button_label": "#ffffff",
-          "secondary_button_label": "#fff",
+          "secondary_button_label": "#ffffff",
           "shadow": "#121212"
         }
       }
