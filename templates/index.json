@@ -6,7 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Meadow in my garden",
+            "heading": "MEADOW IN MY GARDEN",
             "heading_size": "h1"
           }
         },
@@ -42,7 +42,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "Who are we?",
             "heading_size": "h1"
           }
         },
@@ -51,18 +51,11 @@
           "settings": {
             "text": "<p>Meadow in my Garden is a community interest company, supporting gardening for wildlife in all kinds of outdoor spaces. Our aim is to make gardening accessible and inclusive and to create flourishing environments for people and pollinators.<\/p>"
           }
-        },
-        "2c0c2a17-0ff3-4de4-9e82-96f208304af3": {
-          "type": "text",
-          "settings": {
-            "text": "<p>We have masses of fresh seeds ready to be gifted this Christmas, whether for a sizeable corner of the garden or planting in pots on the patio - we have a mix for every gardener!<\/p>"
-          }
         }
       },
       "block_order": [
         "heading",
-        "text",
-        "2c0c2a17-0ff3-4de4-9e82-96f208304af3"
+        "text"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -71,21 +64,6 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 0
-      }
-    },
-    "video": {
-      "type": "video",
-      "settings": {
-        "heading": "THE MAKING OF FLOWER MEADOW - RHS ROSEMOOR",
-        "heading_size": "h2",
-        "enable_video_looping": false,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=43bt6nziQ_g",
-        "cover_image": "shopify:\/\/shop_images\/classic-flowering-lawn.jpg",
-        "description": "The making of flower meadow",
-        "full_width": false,
-        "color_scheme": "scheme-1",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "367e95c5-95fb-43ab-b2e7-67c5b3fb1aaf": {
@@ -131,6 +109,21 @@
         "show_view_all": false,
         "columns_mobile": "1",
         "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "video": {
+      "type": "video",
+      "settings": {
+        "heading": "THE MAKING OF FLOWER MEADOW - RHS ROSEMOOR",
+        "heading_size": "h2",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=43bt6nziQ_g",
+        "cover_image": "shopify:\/\/shop_images\/classic-flowering-lawn.jpg",
+        "description": "The making of flower meadow",
+        "full_width": false,
+        "color_scheme": "scheme-1",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -228,8 +221,8 @@
   "order": [
     "image_banner",
     "rich_text",
-    "video",
     "367e95c5-95fb-43ab-b2e7-67c5b3fb1aaf",
+    "video",
     "bb506e34-0c4d-41f1-b3a5-5d72dc3aa380",
     "bc129793-3812-4eb2-813e-85f508776303"
   ]
