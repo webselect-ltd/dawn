@@ -108,6 +108,9 @@
         "collapsible-row-3",
         "share"
       ],
+      "custom_css": [
+        ".product__pickup-availabilities {display: none !important;}"
+      ],
       "settings": {
         "enable_sticky_info": true,
         "color_scheme": "",

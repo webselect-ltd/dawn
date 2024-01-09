@@ -6,14 +6,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "MEADOW IN MY GARDEN",
+            "heading": "<strong>MEADOW IN MY GARDEN<\/strong>",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "Meadow in my Garden is a community interest company, supporting gardening for wildlife in all kinds of outdoor spaces. Our aim is to make gardening accessible and inclusive and to create flourishing environments for people and pollinators.",
+            "text": "Sowing seeds for people and pollinators",
             "text_style": "subtitle"
           }
         }
@@ -24,7 +24,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/classic-flowering-lawn.jpg",
-        "image_overlay_opacity": 60,
+        "image_overlay_opacity": 70,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
