@@ -89,7 +89,6 @@
         },
         "dc92fad0-15cb-45ed-81ee-e4656086a229": {
           "type": "featured_collection",
-          "disabled": true,
           "settings": {
             "collection": "single-species"
           }
