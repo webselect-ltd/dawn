@@ -2,38 +2,6 @@
   "name": "t:sections.header.name",
   "type": "header",
   "sections": {
-    "announcement-bar": {
-      "type": "announcement-bar",
-      "blocks": {
-        "announcement-bar-0": {
-          "type": "announcement",
-          "settings": {
-            "text": "Contact us for free advice",
-            "link": "shopify:\/\/pages\/contact-us"
-          }
-        },
-        "9992615a-8e55-4308-9f9c-9ea3f5d371f0": {
-          "type": "announcement",
-          "settings": {
-            "text": "Visit us at events across the UK",
-            "link": "shopify:\/\/pages\/events-2023"
-          }
-        }
-      },
-      "block_order": [
-        "announcement-bar-0",
-        "9992615a-8e55-4308-9f9c-9ea3f5d371f0"
-      ],
-      "settings": {
-        "color_scheme": "scheme-311b219e-937f-4559-b291-b2cd1d980730",
-        "show_line_separator": true,
-        "show_social": true,
-        "auto_rotate": true,
-        "change_slides_speed": 5,
-        "enable_country_selector": false,
-        "enable_language_selector": false
-      }
-    },
     "header": {
       "type": "header",
       "settings": {
@@ -54,7 +22,6 @@
     }
   },
   "order": [
-    "announcement-bar",
     "header"
   ]
 }
