@@ -69,16 +69,16 @@
     "367e95c5-95fb-43ab-b2e7-67c5b3fb1aaf": {
       "type": "collection-list",
       "blocks": {
-        "template--21854089085222__367e95c5-95fb-43ab-b2e7-67c5b3fb1aaf-featured_collection-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "flower-meadow-seeds"
-          }
-        },
         "template--21854089085222__367e95c5-95fb-43ab-b2e7-67c5b3fb1aaf-featured_collection-2": {
           "type": "featured_collection",
           "settings": {
             "collection": "british-native-wildflowers"
+          }
+        },
+        "template--21854089085222__367e95c5-95fb-43ab-b2e7-67c5b3fb1aaf-featured_collection-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "flower-meadow-seeds"
           }
         },
         "template--21854089085222__367e95c5-95fb-43ab-b2e7-67c5b3fb1aaf-featured_collection-3": {
@@ -87,18 +87,19 @@
             "collection": "flowering-lawns"
           }
         },
-        "b3236d20-8e32-4259-8732-436ffa7d0064": {
+        "dc92fad0-15cb-45ed-81ee-e4656086a229": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
-            "collection": "homes-for-nature"
+            "collection": "single-species"
           }
         }
       },
       "block_order": [
-        "template--21854089085222__367e95c5-95fb-43ab-b2e7-67c5b3fb1aaf-featured_collection-1",
         "template--21854089085222__367e95c5-95fb-43ab-b2e7-67c5b3fb1aaf-featured_collection-2",
+        "template--21854089085222__367e95c5-95fb-43ab-b2e7-67c5b3fb1aaf-featured_collection-1",
         "template--21854089085222__367e95c5-95fb-43ab-b2e7-67c5b3fb1aaf-featured_collection-3",
-        "b3236d20-8e32-4259-8732-436ffa7d0064"
+        "dc92fad0-15cb-45ed-81ee-e4656086a229"
       ],
       "settings": {
         "title": "",
