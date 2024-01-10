@@ -14,7 +14,7 @@
           "type": "text",
           "settings": {
             "text": "Sowing seeds for people and pollinators",
-            "text_style": "subtitle"
+            "text_style": "body"
           }
         }
       },
@@ -24,7 +24,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Riverside_1.jpg",
-        "image_overlay_opacity": 40,
+        "image_overlay_opacity": 10,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
