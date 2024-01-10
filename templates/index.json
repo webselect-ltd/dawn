@@ -6,14 +6,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>MEADOW IN MY GARDEN<\/strong>",
-            "heading_size": "h1"
+            "heading": "<strong>JOIN OUR POCKET MEADOW PROJECT<\/strong>",
+            "heading_size": "h2"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "Sowing seeds for people and pollinators",
+            "text": "At Toby's Garden Festival - 3\/4th May 2024",
             "text_style": "body"
           }
         }
