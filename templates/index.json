@@ -23,8 +23,8 @@
         "text"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Riverside_2.jpg",
-        "image_overlay_opacity": 40,
+        "image": "shopify:\/\/shop_images\/Quakers_10.jpg",
+        "image_overlay_opacity": 30,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
