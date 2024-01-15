@@ -8,106 +8,78 @@
         "padding_bottom": 28
       }
     },
-    "45ea010d-7f40-4269-9cc9-0b29bc64c552": {
-      "type": "multirow",
+    "rich_text_mYzAg6": {
+      "type": "rich-text",
       "blocks": {
-        "template--21864540012838__45ea010d-7f40-4269-9cc9-0b29bc64c552-row-1": {
-          "type": "row",
+        "heading_tEQtez": {
+          "type": "heading",
           "settings": {
-            "image": "shopify:\/\/shop_images\/woodland-grasses.jpg",
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
+            "heading": "Gardens for Wildlife",
+            "heading_size": "h1"
           }
         },
-        "template--21864540012838__45ea010d-7f40-4269-9cc9-0b29bc64c552-row-2": {
-          "type": "row",
+        "text_3pFy8n": {
+          "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/dry-ground-flowering-lawn-sq.jpg",
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        },
-        "template--21864540012838__45ea010d-7f40-4269-9cc9-0b29bc64c552-row-3": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FRESHFORD_3.jpg",
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
           }
         }
       },
       "block_order": [
-        "template--21864540012838__45ea010d-7f40-4269-9cc9-0b29bc64c552-row-1",
-        "template--21864540012838__45ea010d-7f40-4269-9cc9-0b29bc64c552-row-2",
-        "template--21864540012838__45ea010d-7f40-4269-9cc9-0b29bc64c552-row-3"
+        "heading_tEQtez",
+        "text_3pFy8n"
       ],
       "settings": {
-        "image_height": "medium",
-        "desktop_image_width": "medium",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "video_gGdtkX": {
+      "type": "video",
+      "settings": {
+        "heading": "",
         "heading_size": "h1",
-        "text_style": "body",
-        "button_style": "secondary",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "image_layout": "alternate-left",
-        "section_color_scheme": "",
-        "row_color_scheme": "",
-        "mobile_content_alignment": "left",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "cover_image": "shopify:\/\/shop_images\/FRESHFORD_3.jpg",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
         "padding_top": 36,
         "padding_bottom": 36
       }
     },
-    "498837d7-9069-46e5-8c3f-1987556c7a28": {
-      "type": "collage",
+    "rich_text_qTm8k7": {
+      "type": "rich-text",
       "blocks": {
-        "1c3ebf6e-581b-4d1e-b070-2c9ef89fdcee": {
-          "type": "image",
+        "text_e6hCp9": {
+          "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/corn-marigold.jpg"
-          }
-        },
-        "7b85ec92-c9d5-48c2-aaba-decd81db7329": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/corncockle.jpg"
-          }
-        },
-        "0b2ebf4e-9f12-4470-bee3-48545bb317a1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/trifolium-pratense.jpg"
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p><p><\/p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>"
           }
         }
       },
       "block_order": [
-        "1c3ebf6e-581b-4d1e-b070-2c9ef89fdcee",
-        "7b85ec92-c9d5-48c2-aaba-decd81db7329",
-        "0b2ebf4e-9f12-4470-bee3-48545bb317a1"
+        "text_e6hCp9"
       ],
       "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "column",
-        "card_styles": "product-card-wrapper",
+        "desktop_content_position": "center",
+        "content_alignment": "left",
         "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
   "order": [
     "main",
-    "45ea010d-7f40-4269-9cc9-0b29bc64c552",
-    "498837d7-9069-46e5-8c3f-1987556c7a28"
+    "rich_text_mYzAg6",
+    "video_gGdtkX",
+    "rich_text_qTm8k7"
   ]
 }
