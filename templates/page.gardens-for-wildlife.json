@@ -1,0 +1,113 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "45ea010d-7f40-4269-9cc9-0b29bc64c552": {
+      "type": "multirow",
+      "blocks": {
+        "template--21864540012838__45ea010d-7f40-4269-9cc9-0b29bc64c552-row-1": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/woodland-grasses.jpg",
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "template--21864540012838__45ea010d-7f40-4269-9cc9-0b29bc64c552-row-2": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dry-ground-flowering-lawn-sq.jpg",
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "template--21864540012838__45ea010d-7f40-4269-9cc9-0b29bc64c552-row-3": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FRESHFORD_3.jpg",
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21864540012838__45ea010d-7f40-4269-9cc9-0b29bc64c552-row-1",
+        "template--21864540012838__45ea010d-7f40-4269-9cc9-0b29bc64c552-row-2",
+        "template--21864540012838__45ea010d-7f40-4269-9cc9-0b29bc64c552-row-3"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "498837d7-9069-46e5-8c3f-1987556c7a28": {
+      "type": "collage",
+      "blocks": {
+        "1c3ebf6e-581b-4d1e-b070-2c9ef89fdcee": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/corn-marigold.jpg"
+          }
+        },
+        "7b85ec92-c9d5-48c2-aaba-decd81db7329": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/corncockle.jpg"
+          }
+        },
+        "0b2ebf4e-9f12-4470-bee3-48545bb317a1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/trifolium-pratense.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "1c3ebf6e-581b-4d1e-b070-2c9ef89fdcee",
+        "7b85ec92-c9d5-48c2-aaba-decd81db7329",
+        "0b2ebf4e-9f12-4470-bee3-48545bb317a1"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "45ea010d-7f40-4269-9cc9-0b29bc64c552",
+    "498837d7-9069-46e5-8c3f-1987556c7a28"
+  ]
+}
