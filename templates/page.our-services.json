@@ -8,78 +8,122 @@
         "padding_bottom": 28
       }
     },
-    "rich_text_mYzAg6": {
-      "type": "rich-text",
+    "image_with_text_6XGYK3": {
+      "type": "image-with-text",
       "blocks": {
-        "heading_tEQtez": {
+        "heading_ERcRGR": {
           "type": "heading",
           "settings": {
-            "heading": "Gardens for Wildlife",
+            "heading": "Our Services",
             "heading_size": "h1"
           }
         },
-        "text_3pFy8n": {
+        "text_wNmT9U": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>",
+            "text_style": "body"
           }
         }
       },
       "block_order": [
-        "heading_tEQtez",
-        "text_3pFy8n"
+        "heading_ERcRGR",
+        "text_wNmT9U"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "image": "shopify:\/\/shop_images\/RedhornGardens_Community_2-1200.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
         "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "video_gGdtkX": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "cover_image": "shopify:\/\/shop_images\/FRESHFORD_3.jpg",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
     },
-    "rich_text_qTm8k7": {
-      "type": "rich-text",
+    "multicolumn_rKB74n": {
+      "type": "multicolumn",
       "blocks": {
-        "text_e6hCp9": {
-          "type": "text",
+        "column_nR6Hw8": {
+          "type": "column",
           "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p><p><\/p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>"
+            "title": "Service Title",
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_zFEVTj": {
+          "type": "column",
+          "settings": {
+            "title": "Service Title",
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_ReAThi": {
+          "type": "column",
+          "settings": {
+            "title": "Service Title",
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_xNY7jV": {
+          "type": "column",
+          "settings": {
+            "title": "Service Title",
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>",
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "text_e6hCp9"
+        "column_nR6Hw8",
+        "column_zFEVTj",
+        "column_ReAThi",
+        "column_xNY7jV"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
         "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "contact_form_gaPK8b": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Contact form",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
   "order": [
     "main",
-    "rich_text_mYzAg6",
-    "video_gGdtkX",
-    "rich_text_qTm8k7"
+    "image_with_text_6XGYK3",
+    "multicolumn_rKB74n",
+    "contact_form_gaPK8b"
   ]
 }
