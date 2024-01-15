@@ -1,0 +1,77 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_with_text_a3Kwep": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_VjmeB8": {
+          "type": "heading",
+          "settings": {
+            "heading": "Cemeteries",
+            "heading_size": "h1"
+          }
+        },
+        "text_9hyge6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet. Sed omnis quaerat sit ullam tempore id officiis maxime ut commodi repudiandae! Et minima numquam eum quia laborum qui architecto tenetur est quos quia sit deleniti nostrum.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_VjmeB8",
+        "text_9hyge6"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Quakers_10.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_7zJixf": {
+      "type": "rich-text",
+      "blocks": {
+        "text_BWHThi": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet. Et Quis praesentium sed voluptatem quae non quis quas! Et pariatur dicta aut illo omnis ut asperiores magni. Eum veritatis voluptas ex quis voluptas sit eius consequatur rem eveniet nobis ut odio optio qui eveniet molestiae aut porro unde. Ea velit asperiores et tenetur voluptatem non unde voluptate ab voluptatem reiciendis aut adipisci voluptas a temporibus corporis non quos repellendus.<\/p><p>Id aperiam vero 33 corporis necessitatibus est tempora incidunt nam incidunt quis 33 consequuntur quibusdam et autem distinctio ut tenetur facilis. Vel dicta pariatur id totam suscipit vel eveniet unde non voluptas error sed molestiae corporis.<\/p><p>Aut eius quas At blanditiis voluptates ut iure aliquid a iusto fugit? Qui cupiditate voluptatibus est voluptatibus ipsam non quasi nesciunt ut nesciunt adipisci et illum maxime qui alias nihil id amet vero. Non eaque vero sit similique asperiores et molestiae inventore sit cupiditate reprehenderit. Eum quos placeat et debitis impedit sed voluptatem ullam hic provident deleniti a doloremque libero in dolor tempora est eveniet dolorem.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_BWHThi"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_a3Kwep",
+    "rich_text_7zJixf"
+  ]
+}
