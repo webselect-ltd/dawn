@@ -31,59 +31,83 @@
         "padding_bottom": 52
       }
     },
-    "multirow_h3Hy7H": {
-      "type": "multirow",
+    "image_with_text_qafjUY": {
+      "type": "image-with-text",
       "blocks": {
-        "row_Fh4wCt": {
-          "type": "row",
+        "text_FKnMJP": {
+          "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Riverside_6.jpg",
-            "caption": "",
-            "heading": "",
             "text": "<p>When we tend our gardens with wildlife in mind we open up a world of possibility. So much in our history and culture has taught us to conquer and dominate nature but I hope we are emerging from that way of thinking and returning to the memory that we are part of nature, sharing this earth with all the other living beings. In the face of ever encroaching concrete and tarmac, loss of wild spaces and social isolation, we can and must make a positive difference. By reclaiming patches of ground for wildlife in our gardens and in our neighbourhoods, we can transform monoculture into something more colourful and meaningful.<\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "row_6Y7YRz": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Riverside_6.jpg",
-            "caption": "",
-            "heading": "",
-            "text": "<p>Sowing a profusion of flowers is a great way to get started. The results are incredibly rewarding and quick to establish. The beauty of flowers is joyous and seductive and not just to the two-legged passers by. Swathes of bobbing blooms are buzzing with life, attracting bees, butterflies and all manner of insects. Insects attract birds and small mammals, who in turn attract predators, and so, from small beginnings, the web of life extends. <\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "row_VdzgGa": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Riverside_6.jpg",
-            "caption": "",
-            "heading": "",
-            "text": "<p>The best wildlife gardens often have a wide variety of habitats, including trees and hedgerows, food crops and natural ponds. Areas of tall grass and wild undergrowth provide shelter for small mammals and insects but medium height plants and short mown grasses are also valuable habitats. Variety really is the spice of life. It’s a learning journey, trying things out and watching the results of our efforts. The natural world is a generous teacher.<\/p>",
-            "button_label": "",
-            "button_link": ""
+            "text_style": "body"
           }
         }
       },
       "block_order": [
-        "row_Fh4wCt",
-        "row_6Y7YRz",
-        "row_VdzgGa"
+        "text_FKnMJP"
       ],
       "settings": {
-        "image_height": "medium",
-        "desktop_image_width": "medium",
-        "heading_size": "h1",
-        "text_style": "body",
-        "button_style": "secondary",
-        "desktop_content_position": "middle",
+        "image": "shopify:\/\/shop_images\/Riverside_6.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "image_layout": "alternate-left",
+        "content_layout": "no-overlap",
         "section_color_scheme": "",
-        "row_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_igJFww": {
+      "type": "rich-text",
+      "blocks": {
+        "text_La8TyP": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sowing a profusion of flowers is a great way to get started. The results are incredibly rewarding and quick to establish. The beauty of flowers is joyous and seductive and not just to the two-legged passers by. Swathes of bobbing blooms are buzzing with life, attracting bees, butterflies and all manner of insects. Insects attract birds and small mammals, who in turn attract predators, and so, from small beginnings, the web of life extends. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_La8TyP"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_with_text_E4zXxk": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_p8bkrq": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The best wildlife gardens often have a wide variety of habitats, including trees and hedgerows, food crops and natural ponds. Areas of tall grass and wild undergrowth provide shelter for small mammals and insects but medium height plants and short mown grasses are also valuable habitats. Variety really is the spice of life. It’s a learning journey, trying things out and watching the results of our efforts. The natural world is a generous teacher.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "text_p8bkrq"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Riverside_6.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
@@ -121,7 +145,9 @@
   "order": [
     "main",
     "rich_text_mYzAg6",
-    "multirow_h3Hy7H",
+    "image_with_text_qafjUY",
+    "rich_text_igJFww",
+    "image_with_text_E4zXxk",
     "featured_collection_hXdVUC"
   ]
 }
