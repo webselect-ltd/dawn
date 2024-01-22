@@ -495,17 +495,17 @@
         "column_Jj3YiE": {
           "type": "column",
           "settings": {
-            "title": "Dog Walk Alley",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
+            "title": "Entrance to the Park",
+            "text": "<p>Short description here<\/p>",
+            "link_label": "See all images",
             "link": ""
           }
         },
         "column_4eTqLW": {
           "type": "column",
           "settings": {
-            "title": "Pans Lane",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Flowers by a play area",
+            "text": "<p>A monoculture of grass can have so much more to offer and brings<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -513,8 +513,8 @@
         "column_UXnie9": {
           "type": "column",
           "settings": {
-            "title": "Pans Lane",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Dog Walk Alley",
+            "text": "<p>A dingey alleyway was blighted by mess but the locals cleaned it up and gave it a new lease of life <\/p>",
             "link_label": "",
             "link": ""
           }
