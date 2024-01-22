@@ -495,7 +495,7 @@
         "column_Jj3YiE": {
           "type": "column",
           "settings": {
-            "title": "The green spaces where you live",
+            "title": "Parke & Verges",
             "text": "<p>Short description here<\/p>",
             "link_label": "See all images",
             "link": ""
@@ -514,7 +514,7 @@
           "type": "column",
           "settings": {
             "title": "Entrance to the Park",
-            "text": "<p>A patch of colouful flowers welcome visitors to the park. The naturalistic feel of a flowerbed meadow acts as a bridge between townscape and countryside.<\/p>",
+            "text": "<p>This naturalistic feel of a flowerbed meadow is a bridge between townscape and countryside.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -541,60 +541,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "multicolumn_UMqBWE": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_b46jNh": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Quakers_27.jpg",
-            "title": "Your Gardens",
-            "text": "<p>Pair text with a<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_t9EEft": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_deBPgT": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_b46jNh",
-        "column_t9EEft",
-        "column_deBPgT"
-      ],
-      "settings": {
-        "title": "Multicolumn",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 4,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -609,7 +555,6 @@
     "multicolumn_dJWTnm",
     "multicolumn_4axeUK",
     "multicolumn_gwwgn9",
-    "multicolumn_hyH939",
-    "multicolumn_UMqBWE"
+    "multicolumn_hyH939"
   ]
 }
