@@ -1,0 +1,53 @@
+{% for block in section.blocks %}
+  <div {{ block.shopify_attributes }}>
+    <div class="robin-pro {% if block.settings.width == 'page' %}page-width{% endif %}" id="{{ block.settings.gallery_id }}"></div>
+  </div>
+{% endfor %}
+
+{% schema %}
+  {
+    "name": "Robin PRO Image Gallery",
+    "blocks": [
+      {
+        "type": "gallery",
+        "name": "Gallery",
+        "settings": [
+          {
+            "label": "Gallery",
+            "type": "select",
+            "id": "gallery_id",
+            "options": [
+{
+  "value": "04812148-d715-42d1-b235-d725cf842463",
+  "label": "Test-gallery"
+}
+            ]
+          },
+          {
+            "type": "radio",
+            "id": "width",
+            "label": "Width",
+            "options": [
+              {
+                "value": "page",
+                "label": "Page width"
+              },
+              {
+                "value": "full",
+                "label": "Full width"
+              }
+            ],
+            "default": "page"
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Robin PRO Image Gallery",
+        "category": "Robin PRO Image Gallery App",
+        "settings": {}
+      }
+    ]
+  }
+{% endschema %}
