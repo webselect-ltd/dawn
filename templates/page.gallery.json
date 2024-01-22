@@ -345,7 +345,7 @@
         "column_NTGEpf": {
           "type": "column",
           "settings": {
-            "title": "Verges and Parks",
+            "title": "Roundabouts",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
@@ -354,8 +354,8 @@
         "column_UPegCC": {
           "type": "column",
           "settings": {
-            "title": "Roundabouts",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Alleyway transformation",
+            "text": "<p>A dingey alleyway was blighted by mess but the locals cleaned it up and gave it a new lease of life <\/p>",
             "link_label": "",
             "link": ""
           }
@@ -367,7 +367,7 @@
         "column_UPegCC"
       ],
       "settings": {
-        "title": "Multicolumn",
+        "title": "Your Gardens and your Neighbourhoods",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -420,7 +420,7 @@
         "column_JXxr7w"
       ],
       "settings": {
-        "title": "Multicolumn",
+        "title": "Some of the Spaces we can Garden",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -473,7 +473,7 @@
         "column_r7mWdK"
       ],
       "settings": {
-        "title": "Multicolumn",
+        "title": "Flowers on a Grand Scale",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -495,7 +495,7 @@
         "column_Jj3YiE": {
           "type": "column",
           "settings": {
-            "title": "Entrance to the Park",
+            "title": "The green spaces where you live",
             "text": "<p>Short description here<\/p>",
             "link_label": "See all images",
             "link": ""
@@ -513,8 +513,8 @@
         "column_UXnie9": {
           "type": "column",
           "settings": {
-            "title": "Dog Walk Alley",
-            "text": "<p>A dingey alleyway was blighted by mess but the locals cleaned it up and gave it a new lease of life <\/p>",
+            "title": "Entrance to the Park",
+            "text": "<p>A patch of colouful flowers welcome visitors to the park. The naturalistic feel of a flowerbed meadow acts as a bridge between townscape and countryside.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -526,7 +526,7 @@
         "column_UXnie9"
       ],
       "settings": {
-        "title": "Multicolumn",
+        "title": "Parks and Verges",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
