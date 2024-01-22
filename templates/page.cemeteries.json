@@ -67,11 +67,101 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "collage_MiF6ke": {
+      "type": "collage",
+      "blocks": {
+        "image_LcX9Aj": {
+          "type": "image",
+          "settings": {
+          }
+        },
+        "image_yF9Eb4": {
+          "type": "image",
+          "settings": {
+          }
+        },
+        "image_Cmbirc": {
+          "type": "image",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "image_LcX9Aj",
+        "image_yF9Eb4",
+        "image_Cmbirc"
+      ],
+      "settings": {
+        "heading": "Multimedia collage",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "slideshow_kwgTEg": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_k66wjh": {
+          "type": "slide",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_9iQXEG": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_k66wjh",
+        "slide_9iQXEG"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
     }
   },
   "order": [
     "main",
     "image_with_text_a3Kwep",
-    "rich_text_7zJixf"
+    "rich_text_7zJixf",
+    "collage_MiF6ke",
+    "slideshow_kwgTEg"
   ]
 }
