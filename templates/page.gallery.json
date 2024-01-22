@@ -442,6 +442,7 @@
         "column_h3qTrD": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/biodiverse-flowering-grassland-sq.jpg",
             "title": "Forde Abbey",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
@@ -451,6 +452,7 @@
         "column_QVyTeE": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/biodiverse-flowering-grassland-sq.jpg",
             "title": "The Country Store",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
@@ -460,6 +462,7 @@
         "column_r7mWdK": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/biodiverse-flowering-grassland-sq.jpg",
             "title": "Riverbank House",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
@@ -473,7 +476,7 @@
         "column_r7mWdK"
       ],
       "settings": {
-        "title": "Flowers on a Grand Scale",
+        "title": "On a Large Scale",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -495,7 +498,8 @@
         "column_Jj3YiE": {
           "type": "column",
           "settings": {
-            "title": "Parke & Verges",
+            "image": "shopify:\/\/shop_images\/biodiverse-flowering-grassland-sq.jpg",
+            "title": "Parks & Verges",
             "text": "<p>Short description here<\/p>",
             "link_label": "See all images",
             "link": ""
@@ -504,6 +508,7 @@
         "column_4eTqLW": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/biodiverse-flowering-grassland-sq.jpg",
             "title": "Flowers by a play area",
             "text": "<p>A monoculture of grass can have so much more to offer and brings<\/p>",
             "link_label": "",
@@ -513,6 +518,7 @@
         "column_UXnie9": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/biodiverse-flowering-grassland-sq.jpg",
             "title": "Entrance to the Park",
             "text": "<p>This naturalistic feel of a flowerbed meadow is a bridge between townscape and countryside.<\/p>",
             "link_label": "",
