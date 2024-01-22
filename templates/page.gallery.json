@@ -42,7 +42,7 @@
       "settings": {
         "height": "adapt",
         "desktop_image_width": "small",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -60,7 +60,7 @@
         "heading_JUFJLq": {
           "type": "heading",
           "settings": {
-            "heading": "Neighboourhood Projects",
+            "heading": "Neighbourhood Projects",
             "heading_size": "h1"
           }
         },
