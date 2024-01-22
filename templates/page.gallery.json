@@ -392,6 +392,7 @@
         "column_8Vm8iz": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/biodiverse-flowering-grassland-sq.jpg",
             "title": "Station Garden",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "See all images",
@@ -401,6 +402,7 @@
         "column_jmeFBd": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/biodiverse-flowering-grassland-sq.jpg",
             "title": "Cemetery",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "See all images",
@@ -410,6 +412,7 @@
         "column_JXxr7w": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/biodiverse-flowering-grassland-sq.jpg",
             "title": "Allotments",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "See all images",
