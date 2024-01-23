@@ -46,9 +46,9 @@
         "text_FKnMJP"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Riverside_6.jpg",
+        "image": "shopify:\/\/shop_images\/elderlycoupleinthegardenproof.jpg",
         "height": "adapt",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
@@ -61,35 +61,13 @@
         "padding_bottom": 36
       }
     },
-    "rich_text_igJFww": {
-      "type": "rich-text",
-      "blocks": {
-        "text_La8TyP": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Sowing a profusion of flowers is a great way to get started. The results are incredibly rewarding and quick to establish. The beauty of flowers is joyous and seductive and not just to the two-legged passers by. Swathes of bobbing blooms are buzzing with life, attracting bees, butterflies and all manner of insects. Insects attract birds and small mammals, who in turn attract predators, and so, from small beginnings, the web of life extends. <\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_La8TyP"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "image_with_text_E4zXxk": {
       "type": "image-with-text",
       "blocks": {
         "text_p8bkrq": {
           "type": "text",
           "settings": {
-            "text": "<p>The best wildlife gardens often have a wide variety of habitats, including trees and hedgerows, food crops and natural ponds. Areas of tall grass and wild undergrowth provide shelter for small mammals and insects but medium height plants and short mown grasses are also valuable habitats. Variety really is the spice of life. It’s a learning journey, trying things out and watching the results of our efforts. The natural world is a generous teacher.<\/p>",
+            "text": "<p>Sowing a profusion of flowers is a great way to get started. The results are incredibly rewarding and quick to establish. The beauty of flowers is joyous and seductive and not just to the two-legged passers by. Swathes of bobbing blooms are buzzing with life, attracting bees, butterflies and all manner of insects. Insects attract birds and small mammals, who in turn attract predators, and so, from small beginnings, the web of life extends. <\/p>",
             "text_style": "body"
           }
         }
@@ -98,10 +76,57 @@
         "text_p8bkrq"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Riverside_6.jpg",
+        "image": "shopify:\/\/shop_images\/gallery-gardens-Macao.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_KMB6Vw": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_KEUQpK": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_9k9zPP": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The best wildlife gardens often have a wide variety of habitats, including trees and hedgerows, food crops and natural ponds. Areas of tall grass and wild undergrowth provide shelter for small mammals and insects but medium height plants and short mown grasses are also valuable habitats. Variety really is the spice of life. It’s a learning journey, trying things out and watching the results of our efforts. The natural world is a generous teacher.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_mKrMtE": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_KEUQpK",
+        "text_9k9zPP",
+        "button_mKrMtE"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_8712.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -121,7 +146,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "flower-meadow-seeds",
+        "collection": "british-native-wildflowers",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
@@ -146,8 +171,8 @@
     "main",
     "rich_text_mYzAg6",
     "image_with_text_qafjUY",
-    "rich_text_igJFww",
     "image_with_text_E4zXxk",
+    "image_with_text_KMB6Vw",
     "featured_collection_hXdVUC"
   ]
 }
