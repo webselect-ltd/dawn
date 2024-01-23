@@ -175,25 +175,6 @@
         "padding_bottom": 36
       }
     },
-    "1706003474d9d00a13": {
-      "type": "apps",
-      "blocks": {
-        "xo_gallery_xo_gallery_c3mQnt": {
-          "type": "shopify:\/\/apps\/xo-gallery\/blocks\/xo-gallery\/e61dfbaa-1a75-4e4e-bffc-324f17325251",
-          "settings": {
-            "type": "gallery",
-            "id": 1,
-            "mid": ""
-          }
-        }
-      },
-      "block_order": [
-        "xo_gallery_xo_gallery_c3mQnt"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
     "bc129793-3812-4eb2-813e-85f508776303": {
       "type": "rich-text",
       "blocks": {
@@ -240,7 +221,6 @@
     "367e95c5-95fb-43ab-b2e7-67c5b3fb1aaf",
     "video",
     "bb506e34-0c4d-41f1-b3a5-5d72dc3aa380",
-    "1706003474d9d00a13",
     "bc129793-3812-4eb2-813e-85f508776303",
     "custom_liquid_NrpLMb"
   ]
