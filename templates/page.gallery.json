@@ -16,19 +16,9 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/gallery-thum-gardens.jpg",
             "title": "Your Gardens",
-            "text": "",
+            "text": "<p>Whether establishing a wildflower meadow, a flowering lawn or a flower meadow border in your garden, you can be sure to create something of real value for wildlife.<\/p>",
             "link_label": "See all images",
             "link": "shopify:\/\/pages\/your-gardens"
-          }
-        },
-        "column_NTGEpf": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/gallery_roundabout_thum.jpg",
-            "title": "Roundabouts",
-            "text": "",
-            "link_label": "See all images",
-            "link": "shopify:\/\/pages\/roundabouts"
           }
         },
         "column_UPegCC": {
@@ -36,16 +26,26 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/alley_thum.jpg",
             "title": "Alleyway transformation",
-            "text": "",
+            "text": "<p>A dingy alleyway was blighted by mess but the locals, with the agreement of the town council, cleaned it up and gave it a new lease of life <\/p>",
             "link_label": "See all images",
-            "link": "shopify:\/\/pages\/alleyway-transformation"
+            "link": "shopify:\/\/pages\/local-councils"
+          }
+        },
+        "column_NTGEpf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gallery_roundabout_thum.jpg",
+            "title": "Roundabouts",
+            "text": "<p>Roundabouts can be something of a blot on the landscape. What joy then to come across an oasis of meadowy blooms on a traffic island; in stark contrast with traditional municipal planting schemes.<\/p>",
+            "link_label": "See all images",
+            "link": "shopify:\/\/pages\/roundabouts"
           }
         }
       },
       "block_order": [
         "column_DATfXU",
-        "column_NTGEpf",
-        "column_UPegCC"
+        "column_UPegCC",
+        "column_NTGEpf"
       ],
       "settings": {
         "title": "Gallery",
