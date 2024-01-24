@@ -2,69 +2,48 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
     },
-    "ed58cf54-88f3-4422-ac26-544d138f1804": {
-      "type": "multirow",
+    "rich_text_EwjGYw": {
+      "type": "rich-text",
       "blocks": {
-        "template--21856023839014__ed58cf54-88f3-4422-ac26-544d138f1804-row-1": {
-          "type": "row",
+        "heading_JbUpYG": {
+          "type": "heading",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        },
-        "template--21856023839014__ed58cf54-88f3-4422-ac26-544d138f1804-row-2": {
-          "type": "row",
-          "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        },
-        "template--21856023839014__ed58cf54-88f3-4422-ac26-544d138f1804-row-3": {
-          "type": "row",
-          "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
+            "heading": "Upcoming Events",
+            "heading_size": "hxl"
           }
         }
       },
       "block_order": [
-        "template--21856023839014__ed58cf54-88f3-4422-ac26-544d138f1804-row-1",
-        "template--21856023839014__ed58cf54-88f3-4422-ac26-544d138f1804-row-2",
-        "template--21856023839014__ed58cf54-88f3-4422-ac26-544d138f1804-row-3"
+        "heading_JbUpYG"
       ],
       "settings": {
-        "image_height": "medium",
-        "desktop_image_width": "medium",
-        "heading_size": "h1",
-        "text_style": "body",
-        "button_style": "secondary",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "image_layout": "alternate-left",
-        "section_color_scheme": "",
-        "row_color_scheme": "",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "custom_liquid_DHPELc": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"elfsight-sapp-7a1efa05-0fd2-4557-9d83-f343ae35d448\"><\/div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
   "order": [
     "main",
-    "ed58cf54-88f3-4422-ac26-544d138f1804"
+    "rich_text_EwjGYw",
+    "custom_liquid_DHPELc"
   ]
 }

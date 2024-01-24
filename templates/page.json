@@ -3,7 +3,7 @@
     "main": {
       "type": "main-page",
       "custom_css": [
-        ".section-template--21854089543974__main-padding {max-width: 100% !important}"
+        ".shopify-sectio {max-width: 100% !important;}"
       ],
       "settings": {
         "padding_top": 28,
