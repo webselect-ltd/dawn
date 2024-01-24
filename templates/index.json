@@ -175,43 +175,6 @@
         "padding_bottom": 36
       }
     },
-    "rich_text_wW4fYB": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_didCai": {
-          "type": "heading",
-          "settings": {
-            "heading": "Testimonials",
-            "heading_size": "h1"
-          }
-        },
-        "text_xGnM73": {
-          "type": "text",
-          "settings": {
-            "text": "<p>I just wanted to say thank you for my parcel of seeds, especially following my query the other day. I love the way they are packaged and presented, and appreciate the complimentary card too-a lovely idea. <\/p><p>I had a £10 gift voucher for another wild flower specialist that I used last week. This left a completely different feel: it couldn’t be used without paying postage (couldn’t use your voucher for it even if there was a balance) and no two products came to less than £10, meaning you either wasted part of the balance or spent even more. <\/p><p>I’ve not emailed them, but won’t be going back. The seeds arrived in a foil pouch wrapped in plastic and no information about planting or what it contained. Buying seeds from you was a much more pleasurable experience-they even look nice still in the packaging!-so I wanted to say well done and thank you.<\/p>"
-          }
-        },
-        "text_mcjw7b": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Sarah<\/strong><\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_didCai",
-        "text_xGnM73",
-        "text_mcjw7b"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "bc129793-3812-4eb2-813e-85f508776303": {
       "type": "rich-text",
       "blocks": {
@@ -258,7 +221,6 @@
     "367e95c5-95fb-43ab-b2e7-67c5b3fb1aaf",
     "video",
     "bb506e34-0c4d-41f1-b3a5-5d72dc3aa380",
-    "rich_text_wW4fYB",
     "bc129793-3812-4eb2-813e-85f508776303",
     "custom_liquid_NrpLMb"
   ]
