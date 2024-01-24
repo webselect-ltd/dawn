@@ -263,6 +263,7 @@
         "text_z3gPfy",
         "button_dWLATm"
       ],
+      "disabled": true,
       "settings": {
         "height": "adapt",
         "desktop_image_width": "medium",
