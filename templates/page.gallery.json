@@ -14,7 +14,7 @@
         "column_DATfXU": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/biodiverse-flowering-grassland-sq.jpg",
+            "image": "shopify:\/\/shop_images\/gallery-thum-gardens.jpg",
             "title": "Your Gardens",
             "text": "<p>Whether establishing a wildflower meadow, a flowering lawn or a flower meadow border in your garden, you can be sure to create something of real value for wildlife.<\/p>",
             "link_label": "See all images",
@@ -28,13 +28,13 @@
             "title": "Roundabouts",
             "text": "<p>Roundabouts can be something of a blot on the landscape. What joy then to come across an oasis of meadowy blooms on a traffic island; in stark contrast with traditional municipal planting schemes.<\/p>",
             "link_label": "See all images",
-            "link": ""
+            "link": "shopify:\/\/pages\/conservation"
           }
         },
         "column_UPegCC": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/biodiverse-flowering-grassland-sq.jpg",
+            "image": "shopify:\/\/shop_images\/alley_thum.jpg",
             "title": "Alleyway transformation",
             "text": "<p>A dingy alleyway was blighted by mess but the locals, with the agreement of the town council, cleaned it up and gave it a new lease of life <\/p>",
             "link_label": "See all images",
