@@ -13,7 +13,7 @@
         "text_MAfbJd": {
           "type": "text",
           "settings": {
-            "text": "<p>100% native wildflowers, found in traditionally managed hay meadows, woodland edges and waysides. <\/p><p>These native species are particularly suited to the UK environment and have evolved alongside the insects that depend on them, providing nectar and pollen, as well as the leaves, stems and roots that provide habitat and larval food sources.<\/p>",
+            "text": "<p>Made up of 100% native wildflowers, found in traditionally managed hay meadows, woodland edges and waysides. <\/p><p>These native species are particularly suited to the UK environment and have evolved alongside the insects that depend on them, providing nectar and pollen, as well as the leaves, stems and roots that provide habitat and larval food sources.<\/p>",
             "text_style": "body"
           }
         }
@@ -60,6 +60,7 @@
     },
     "banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "settings": {
         "show_collection_description": true,
         "show_collection_image": true,
