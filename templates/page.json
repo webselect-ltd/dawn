@@ -2,6 +2,9 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "custom_css": [
+        ".section-template--21854089543974__main-padding {max-width: 100% !important}"
+      ],
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
