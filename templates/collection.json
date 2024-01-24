@@ -1,41 +1,11 @@
 {
   "sections": {
-    "image_with_text_MJHXH3": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_cEaw7F": {
-          "type": "heading",
-          "settings": {
-            "heading": "Native Wildflower Meadows",
-            "heading_size": "h1"
-          }
-        },
-        "text_MAfbJd": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Made up of 100% native wildflowers, typically found in traditionally managed hay meadows, woodland edges and waysides. <\/p><p>These wildflower species are particularly suited to the UK environment and have evolved alongside the insects that depend on them, providing nectar and pollen, as well as the leaves, stems and roots that are essential habitat and larval food sources.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_cEaw7F",
-        "text_MAfbJd"
-      ],
+    "banner": {
+      "type": "main-collection-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/shop_native_meadows.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "color_scheme": "scheme-1"
       }
     },
     "product-grid": {
@@ -58,19 +28,49 @@
         "padding_bottom": 36
       }
     },
-    "banner": {
-      "type": "main-collection-banner",
+    "image_with_text_MJHXH3": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_cEaw7F": {
+          "type": "heading",
+          "settings": {
+            "heading": "Native Wildflower Meadows",
+            "heading_size": "h1"
+          }
+        },
+        "text_MAfbJd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Made up of 100% native wildflowers, typical of traditionally managed hay meadows, woodland edges and waysides. <\/p><p>These wildflower species are particularly suited to the UK environment and have evolved alongside the insects that depend on them, providing nectar and pollen, as well as the leaves, stems and roots that are essential habitat and larval food sources.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_cEaw7F",
+        "text_MAfbJd"
+      ],
       "disabled": true,
       "settings": {
-        "show_collection_description": true,
-        "show_collection_image": true,
-        "color_scheme": "scheme-1"
+        "image": "shopify:\/\/shop_images\/shop_native_meadows.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
   "order": [
-    "image_with_text_MJHXH3",
+    "banner",
     "product-grid",
-    "banner"
+    "image_with_text_MJHXH3"
   ]
 }
