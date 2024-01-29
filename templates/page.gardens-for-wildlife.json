@@ -141,12 +141,12 @@
     "featured_collection_hXdVUC": {
       "type": "featured-collection",
       "settings": {
-        "title": "You can find our native wildflower selection here",
+        "title": "Flowerbed meadows are a great option for gardens and community projects.",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "british-native-wildflowers",
+        "collection": "flower-meadow-seeds",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
