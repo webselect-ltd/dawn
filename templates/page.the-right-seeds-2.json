@@ -14,7 +14,7 @@
         "heading_tEQtez": {
           "type": "heading",
           "settings": {
-            "heading": "Gardens for Wildlife",
+            "heading": "The right seeds for your project",
             "heading_size": "h1"
           }
         }
@@ -37,7 +37,7 @@
         "text_FKnMJP": {
           "type": "text",
           "settings": {
-            "text": "<p>When we tend our gardens with wildlife in mind we open up a world of possibility. So much in our history and culture has taught us to conquer and dominate nature but let us hope we are emerging from that way of thinking and returning to the memory that we are part of nature, sharing this earth with all the other living beings. In the face of ever encroaching concrete and tarmac, loss of wild spaces and social isolation, we can and must make a positive difference. By reclaiming patches of ground for wildlife in our gardens and in our neighbourhoods, we can transform monoculture into something more colourful and meaningful.<\/p>",
+            "text": "<p>There are several factors to consider when choosing the right seeds for a project. As a rule of thumb we would always recommend that you start by taking stock of what is there already, before making any changes. Is it sunny or shady? What is growing there? What kind of soil? Stony and dry, clay or loam? If nothing thrives in a particular spot then that may be a clue that it's not a great environment for growing plants, perhaps too dry and shaded and you may do better to choose a better spot.<\/p>",
             "text_style": "body"
           }
         }
@@ -46,7 +46,7 @@
         "text_FKnMJP"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/elderlycoupleinthegardenproof.jpg",
+        "image": "shopify:\/\/shop_images\/0a55d8a3-8c31-4862-900d-b65ba14b86ac.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -76,9 +76,9 @@
         "text_p8bkrq"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/gallery-gardens-Macao.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_6127_web_3000px.jpg",
         "height": "adapt",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
