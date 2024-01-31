@@ -49,15 +49,6 @@
           "type": "description",
           "settings": {
           }
-        },
-        "collapsible_tab_HfrkBq": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "",
-            "icon": "check_mark",
-            "content": "",
-            "page": ""
-          }
         }
       },
       "block_order": [
@@ -68,8 +59,7 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "description",
-        "collapsible_tab_HfrkBq"
+        "description"
       ],
       "custom_css": [
         ".product__pickup-availabilities {display: none !important;}"
