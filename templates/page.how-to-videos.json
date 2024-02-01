@@ -37,11 +37,27 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "video_WmxrXC": {
+      "type": "video",
+      "settings": {
+        "heading": "Step 3. Sowing a flower meadow",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=OKWNWMVdvZg&ab_channel=MeadowinmyGarden",
+        "cover_image": "shopify:\/\/shop_images\/step-3-thum.jpg",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "video_wcmiqf",
-    "video_7QPnRf"
+    "video_7QPnRf",
+    "video_WmxrXC"
   ]
 }
