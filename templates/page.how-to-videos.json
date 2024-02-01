@@ -67,6 +67,21 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "video_V6AJ7x": {
+      "type": "video",
+      "settings": {
+        "heading": "Step 5. Refreshing a flower meadow",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=Hgu6T0BlBto&ab_channel=MeadowinmyGarden",
+        "cover_image": "shopify:\/\/shop_images\/step-5-thum.jpg",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -74,6 +89,7 @@
     "video_wcmiqf",
     "video_7QPnRf",
     "video_WmxrXC",
-    "video_Urb3Kc"
+    "video_Urb3Kc",
+    "video_V6AJ7x"
   ]
 }
