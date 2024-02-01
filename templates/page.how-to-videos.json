@@ -58,7 +58,7 @@
       "type": "video",
       "settings": {
         "heading": "Step 2. Preparing a flower meadow",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "enable_video_looping": false,
         "video_url": "https:\/\/www.youtube.com\/watch?v=FZgCHi-Jyrg&ab_channel=MeadowinmyGarden",
         "cover_image": "shopify:\/\/shop_images\/step-2-thum.jpg",
@@ -73,7 +73,7 @@
       "type": "video",
       "settings": {
         "heading": "Step 3. Sowing a flower meadow",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "enable_video_looping": false,
         "video_url": "https:\/\/www.youtube.com\/watch?v=OKWNWMVdvZg&ab_channel=MeadowinmyGarden",
         "cover_image": "shopify:\/\/shop_images\/step-3-thum.jpg",
@@ -88,7 +88,7 @@
       "type": "video",
       "settings": {
         "heading": "Step 4. Cutting a flower meadow",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "enable_video_looping": false,
         "video_url": "https:\/\/www.youtube.com\/watch?v=bBwwz4EHYog&ab_channel=MeadowinmyGarden",
         "cover_image": "shopify:\/\/shop_images\/step-4-thum.jpg",
@@ -103,7 +103,7 @@
       "type": "video",
       "settings": {
         "heading": "Step 5. Refreshing a flower meadow",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "enable_video_looping": false,
         "video_url": "https:\/\/www.youtube.com\/watch?v=Hgu6T0BlBto&ab_channel=MeadowinmyGarden",
         "cover_image": "shopify:\/\/shop_images\/step-5-thum.jpg",
