@@ -8,52 +8,10 @@
         "padding_bottom": 28
       }
     },
-    "rich_text_wAQPz9": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_K3NwnE": {
-          "type": "heading",
-          "settings": {
-            "heading": "How-to video guides",
-            "heading_size": "h1"
-          }
-        },
-        "text_NGeR6C": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Creating a garden pollinator meadow does not need to be difficult <\/strong>but there are certain steps that you can take to ensure success. In these five short videos, we'll talk you through the different processes and show you how easy it can be to achieve stunning results. <\/p>"
-          }
-        },
-        "button_bUmF3Y": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_K3NwnE",
-        "text_NGeR6C",
-        "button_bUmF3Y"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "video_wcmiqf": {
       "type": "video",
       "settings": {
-        "heading": "Step 1. Planning a flower meadow",
+        "heading": "How-to video guides",
         "heading_size": "h1",
         "enable_video_looping": false,
         "video_url": "https:\/\/www.youtube.com\/watch?v=n1c9zMFIa3E&ab_channel=MeadowinmyGarden",
@@ -128,7 +86,6 @@
   },
   "order": [
     "main",
-    "rich_text_wAQPz9",
     "video_wcmiqf",
     "video_7QPnRf",
     "video_WmxrXC",
