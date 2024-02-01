@@ -138,6 +138,20 @@
         "padding_bottom": 36
       }
     },
+    "video_d76R4j": {
+      "type": "video",
+      "settings": {
+        "heading": "Video",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=GJXegAWr1LY&ab_channel=MeadowinmyGarden",
+        "description": "Choosing the right seed mix",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "featured_collection_hXdVUC": {
       "type": "featured-collection",
       "settings": {
@@ -173,6 +187,7 @@
     "image_with_text_qafjUY",
     "image_with_text_E4zXxk",
     "image_with_text_KMB6Vw",
+    "video_d76R4j",
     "featured_collection_hXdVUC"
   ]
 }
