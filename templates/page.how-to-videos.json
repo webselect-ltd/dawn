@@ -12,7 +12,7 @@
       "type": "video",
       "settings": {
         "heading": "How-to video guides",
-        "heading_size": "h1",
+        "heading_size": "h0",
         "enable_video_looping": false,
         "video_url": "https:\/\/www.youtube.com\/watch?v=n1c9zMFIa3E&ab_channel=MeadowinmyGarden",
         "cover_image": "shopify:\/\/shop_images\/step-1-thum.jpg",
