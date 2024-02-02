@@ -6,7 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<a href=\"\/blogs\/blog\/new-blog-post\" target=\"_blank\" title=\"The Pocket Meadow Project\"><strong>JOIN OUR POCKET MEADOW PROJECT<\/strong><\/a>",
+            "heading": "<a href=\"\/blogs\/blog\/new-blog-post\" title=\"The Pocket Meadow Project\"><strong>JOIN OUR POCKET MEADOW PROJECT<\/strong><\/a>",
             "heading_size": "h1"
           }
         },
