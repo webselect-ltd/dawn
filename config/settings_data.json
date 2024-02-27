@@ -424,5 +424,10 @@
         }
       }
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".rte a:hover {color: #1eaea8; text-decoration-thickness: 0.1rem;}"
+    ]
   }
 }
