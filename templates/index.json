@@ -6,14 +6,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Test",
+            "heading": "Welcome to Stone's Honey",
             "heading_size": "h0"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "A family-run business with multiple apiaries spread across the South Hams region of South Devon. With hives located on farmland amongst unspoiled countryside, our bees are free to forage on wildflowers, trees, hedgerows and flower gardens, within some of the best natural areas Devon has to offer.",
             "text_style": "body"
           }
         },
