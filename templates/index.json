@@ -6,21 +6,21 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Welcome to Stone's Honey",
+            "heading": "<strong>Stone's Honey<\/strong>",
             "heading_size": "h0"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "A family-run business with multiple apiaries spread across the South Hams region of South Devon. With hives located on farmland amongst unspoiled countryside, our bees are free to forage on wildflowers, trees, hedgerows and flower gardens, within some of the best natural areas Devon has to offer.",
+            "text": "100% Pure, Natural, Devon Honey",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Browse our products",
+            "button_label_1": "SHOP NOW",
             "button_link_1": "shopify:\/\/collections\/all",
             "button_style_secondary_1": true,
             "button_label_2": "",
