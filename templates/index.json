@@ -13,7 +13,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<strong>SAVE 33% ON OUR BEST-SELLING MINI-MEADOWS<\/strong>",
+            "text": "<a href=\"\/products\/pocket-meadows\" title=\"Pocket Meadows\"><strong>SAVE 33% ON OUR BEST-SELLING MINI-MEADOWS<\/strong><\/a>",
             "text_style": "subtitle"
           }
         }
