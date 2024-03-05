@@ -248,6 +248,28 @@
         "color_scheme": "",
         "full_width": true,
         "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_dxBHdg": {
+      "type": "rich-text",
+      "blocks": {
+        "text_3Nw6Ut": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Alans Apple<\/h2><p>26 Fore Street, Kingsbridge, Tq7 1NY<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_3Nw6Ut"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 20,
         "padding_bottom": 52
       }
     }
@@ -260,6 +282,7 @@
     "rich_text_HdFKTc",
     "rich_text_iYFKif",
     "rich_text_WRrdpA",
-    "rich_text_GKy7PU"
+    "rich_text_GKy7PU",
+    "rich_text_dxBHdg"
   ]
 }
