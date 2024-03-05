@@ -369,6 +369,36 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "rich_text_Axeejd": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ge4T48": {
+          "type": "heading",
+          "settings": {
+            "heading": "Plymouth",
+            "heading_size": "h1"
+          }
+        },
+        "text_AbiYUV": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><a href=\"https:\/\/goo.gl\/maps\/qGguafhUjvTQxd3a9\" target=\"_blank\" title=\"Eggbuckland Stores\">Eggbuckland Stores<\/a><\/h2><p>67-69 St Edward Gardens, Plymouth, PL6 5PF<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ge4T48",
+        "text_AbiYUV"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -383,6 +413,7 @@
     "rich_text_dxBHdg",
     "rich_text_hgtNdQ",
     "rich_text_aBARdE",
-    "rich_text_fB3Eec"
+    "rich_text_fB3Eec",
+    "rich_text_Axeejd"
   ]
 }
