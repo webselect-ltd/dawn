@@ -185,11 +185,18 @@
           "settings": {
             "text": "<h2><a href=\"https:\/\/goo.gl\/maps\/RCrNnMkVaefSaFHf6\" target=\"_blank\" title=\"Nature's Larder\">Nature's Larder<\/a><\/h2><p>10 Glanvilles Road, Ivybridge, PL21 9PS<\/p>"
           }
+        },
+        "text_qjrRKe": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><a href=\"https:\/\/goo.gl\/maps\/eG4FszmimhJrz5EAA\" target=\"_blank\" title=\"Endsleigh Garden Centre\">Endsleigh Garden Centre<\/a><\/h2><p>Cadleigh Park, Ivybridge, PL21 9JL<\/p>"
+          }
         }
       },
       "block_order": [
         "heading_hQQJga",
-        "text_a8DLCW"
+        "text_a8DLCW",
+        "text_qjrRKe"
       ],
       "settings": {
         "desktop_content_position": "center",
