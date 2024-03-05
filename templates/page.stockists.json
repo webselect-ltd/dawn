@@ -169,6 +169,36 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "rich_text_WRrdpA": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_hQQJga": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ivybridge",
+            "heading_size": "h1"
+          }
+        },
+        "text_a8DLCW": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><a href=\"https:\/\/goo.gl\/maps\/RCrNnMkVaefSaFHf6\" target=\"_blank\" title=\"Nature's Larder\">Nature's Larder<\/a><\/h2><p>10 Glanvilles Road, Ivybridge, PL21 9PS<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_hQQJga",
+        "text_a8DLCW"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -177,6 +207,7 @@
     "rich_text_jQUkp8",
     "rich_text_UCc6xK",
     "rich_text_HdFKTc",
-    "rich_text_iYFKif"
+    "rich_text_iYFKif",
+    "rich_text_WRrdpA"
   ]
 }
