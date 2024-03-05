@@ -385,11 +385,18 @@
           "settings": {
             "text": "<h2><a href=\"https:\/\/goo.gl\/maps\/qGguafhUjvTQxd3a9\" target=\"_blank\" title=\"Eggbuckland Stores\">Eggbuckland Stores<\/a><\/h2><p>67-69 St Edward Gardens, Plymouth, PL6 5PF<\/p>"
           }
+        },
+        "text_E6PVCp": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Green Shoots Eco - Devonport<\/h2><p>4 Phelps Road, Devonport, Plymouth, PL1 4FY<\/p>"
+          }
         }
       },
       "block_order": [
         "heading_ge4T48",
-        "text_AbiYUV"
+        "text_AbiYUV",
+        "text_E6PVCp"
       ],
       "settings": {
         "desktop_content_position": "center",
