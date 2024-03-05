@@ -35,10 +35,33 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "rich_text_jei39H": {
+      "type": "rich-text",
+      "blocks": {
+        "text_nVrAxh": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Jason’s interest in beekeeping began when he started helping tend to his grandfather’s garden hives. After being gifted his own hive, Jason’s passion for beekeeping grew and Stone’s Honey was established in 2015. As the business has grown, Stone’s Honey has evolved to become a true family affair with everybody lending a hand in every aspect of the business.<\/p><p>Stone’s Honey now has a number of honey production apiaries, all based in the South Hams region of Devon and within a five-mile radius of Ivybridge, between the edge of Dartmoor and the South Devon coast. With hives located on farmland amongst unspoilt countryside, our bees are free to forage on wildflowers, trees, hedgerows and flower gardens within some of the best natural areas Devon has to offer.<\/p><p>In 2020 we were awarded a ‘Taste of the West’ Gold Award. In addition to our Gold Award, our clear honey was also a finalist in the ‘Taste of the West’ Sweet Preserves category.<\/p><p>Our aim is to produce and supply top quality honey, direct from the hive. Every jar of Stone’s Honey can be traced back to its production apiary and is unpasteurised, unblended and coarse-filtered to retain all of the flavour and all of the nutrition.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_nVrAxh"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
-    "image_banner_MpxzwW"
+    "image_banner_MpxzwW",
+    "rich_text_jei39H"
   ]
 }
