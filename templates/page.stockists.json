@@ -450,6 +450,43 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "rich_text_rRUYMn": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_n7VxjQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "South Brent",
+            "heading_size": "h1"
+          }
+        },
+        "text_hYxUqw": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><a href=\"https:\/\/goo.gl\/maps\/w7ZNj6uptvs1W5rs8\" target=\"_blank\" title=\"Wakeleys\">Wakeleys<\/a><\/h2><p>Old Station Yard, South Brent, TQ10 9AJ<\/p>"
+          }
+        },
+        "text_AMz3UT": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><a href=\"https:\/\/goo.gl\/maps\/L8xKuk4efT4UFkVo6\" target=\"_blank\" title=\"The Village Shop\">The Village Shop<\/a><\/h2><p>Station Road, South Brent, TQ10 9BE<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_n7VxjQ",
+        "text_hYxUqw",
+        "text_AMz3UT"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -466,6 +503,7 @@
     "rich_text_aBARdE",
     "rich_text_fB3Eec",
     "rich_text_Axeejd",
-    "rich_text_JtATJR"
+    "rich_text_JtATJR",
+    "rich_text_rRUYMn"
   ]
 }
