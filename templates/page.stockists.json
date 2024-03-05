@@ -428,12 +428,19 @@
           "settings": {
             "text": "<h2>The Salcombe Deli<\/h2><p>52 Fore Street, Salcombe, TQ8 8JE<\/p>"
           }
+        },
+        "text_iGKnKw": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Burton Farm Shop<\/h2><p>Malborough Post Office, Malborough, Devon, TQ7 3RP<\/p>"
+          }
         }
       },
       "block_order": [
         "heading_cLK9DK",
         "text_zdeK6h",
-        "text_Yezxi3"
+        "text_Yezxi3",
+        "text_iGKnKw"
       ],
       "settings": {
         "desktop_content_position": "center",
