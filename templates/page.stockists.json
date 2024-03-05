@@ -49,25 +49,13 @@
         "text_WUzEzz": {
           "type": "text",
           "settings": {
-            "text": "<h2>The Postal Pantry<\/h2><p>The Postal Pantry is a online Delivery service based in Devon. They offer FREE DELIVERY to selected South Devon postcodes throughout the week with no minimum spend. There are also FREE Delivery Options for the rest of mainland UK.<\/p>"
-          }
-        },
-        "button_bBwcJP": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "text": "<h2><a href=\"https:\/\/www.postalpantry.co.uk\/\" target=\"_blank\" title=\"https:\/\/www.postalpantry.co.uk\/\">The Postal Pantry<\/a><\/h2><p>The Postal Pantry is a online Delivery service based in Devon. They offer FREE DELIVERY to selected South Devon postcodes throughout the week with no minimum spend. There are also FREE Delivery Options for the rest of mainland UK.<\/p>"
           }
         }
       },
       "block_order": [
         "heading_j8y4Gc",
-        "text_WUzEzz",
-        "button_bBwcJP"
+        "text_WUzEzz"
       ],
       "settings": {
         "desktop_content_position": "center",
