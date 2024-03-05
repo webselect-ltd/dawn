@@ -309,6 +309,36 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "rich_text_aBARdE": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_M9Tn6K": {
+          "type": "heading",
+          "settings": {
+            "heading": "Newton Abbot",
+            "heading_size": "h1"
+          }
+        },
+        "text_AzEJRk": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><a href=\"https:\/\/goo.gl\/maps\/vzyKEWcdth5nqa3o9\" target=\"_blank\" title=\"Fermoy's Garden Centre\">Fermoy's Garden Centre<\/a><\/h2><p>Totnes Road, Ipplepen, Newton Abbot, TQ12 5TN<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_M9Tn6K",
+        "text_AzEJRk"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -321,6 +351,7 @@
     "rich_text_WRrdpA",
     "rich_text_GKy7PU",
     "rich_text_dxBHdg",
-    "rich_text_hgtNdQ"
+    "rich_text_hgtNdQ",
+    "rich_text_aBARdE"
   ]
 }
