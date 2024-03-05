@@ -487,6 +487,43 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "rich_text_7nz4wk": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_VqhfFe": {
+          "type": "heading",
+          "settings": {
+            "heading": "Totnes",
+            "heading_size": "h1"
+          }
+        },
+        "text_bqMre7": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><a href=\"https:\/\/g.page\/anniesoftotnes?share\" target=\"_blank\" title=\"Annies\">Annies<\/a><\/h2><p>Ticklemore Street, Totnes, TQ9 5EJ<\/p>"
+          }
+        },
+        "text_WtLPfK": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><a href=\"https:\/\/goo.gl\/maps\/rgCsdEe4xJDNKvCj9\" target=\"_blank\" title=\"Greenlife\">Greenlife<\/a><\/h2><p>1-2, Birdwood Court Market Square, High Street, Market Square, Totnes, TQ9 5SG<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_VqhfFe",
+        "text_bqMre7",
+        "text_WtLPfK"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -504,6 +541,7 @@
     "rich_text_fB3Eec",
     "rich_text_Axeejd",
     "rich_text_JtATJR",
-    "rich_text_rRUYMn"
+    "rich_text_rRUYMn",
+    "rich_text_7nz4wk"
   ]
 }
