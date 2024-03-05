@@ -8,51 +8,20 @@
         "image_YpLGdT": {
           "type": "image",
           "settings": {
-            "image_width": 100,
-            "alignment": "center"
-          }
-        },
-        "image_enWUUn": {
-          "type": "image",
-          "settings": {
-            "image_width": 100,
-            "alignment": "center"
-          }
-        },
-        "image_G4n6qf": {
-          "type": "image",
-          "settings": {
-            "image_width": 100,
-            "alignment": "center"
-          }
-        },
-        "image_MLapRc": {
-          "type": "image",
-          "settings": {
-            "image_width": 100,
-            "alignment": "center"
-          }
-        },
-        "image_RKcFxU": {
-          "type": "image",
-          "settings": {
-            "image_width": 100,
+            "image": "shopify:\/\/shop_images\/logos.png",
+            "image_width": 550,
             "alignment": "center"
           }
         }
       },
       "block_order": [
-        "image_YpLGdT",
-        "image_enWUUn",
-        "image_G4n6qf",
-        "image_MLapRc",
-        "image_RKcFxU"
+        "image_YpLGdT"
       ],
       "custom_css": [
-        "footer {grid-template-columns: repeat(5, 1fr) !important}"
+
       ],
       "settings": {
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-64bcdae5-b3f4-471e-b300-bafb36534969",
         "newsletter_enable": false,
         "newsletter_heading": "Subscribe to our emails",
         "enable_follow_on_shop": true,
