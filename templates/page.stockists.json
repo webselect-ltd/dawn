@@ -272,6 +272,36 @@
         "padding_top": 20,
         "padding_bottom": 52
       }
+    },
+    "rich_text_hgtNdQ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_hkyf9h": {
+          "type": "heading",
+          "settings": {
+            "heading": "Modbury",
+            "heading_size": "h1"
+          }
+        },
+        "text_8BfWwN": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><a href=\"https:\/\/goo.gl\/maps\/NAjm7731CjZTbbuD6\" target=\"_blank\" title=\"Mackgills Delicatessen\">Mackgills Delicatessen<\/a><\/h2><p>4 Church Street, Modbury, Ivybridge, PL21 0QW<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_hkyf9h",
+        "text_8BfWwN"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -283,6 +313,7 @@
     "rich_text_iYFKif",
     "rich_text_WRrdpA",
     "rich_text_GKy7PU",
-    "rich_text_dxBHdg"
+    "rich_text_dxBHdg",
+    "rich_text_hgtNdQ"
   ]
 }
