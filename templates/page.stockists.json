@@ -49,7 +49,7 @@
         "text_WUzEzz": {
           "type": "text",
           "settings": {
-            "text": "<h2><a href=\"https:\/\/www.postalpantry.co.uk\/\" target=\"_blank\" title=\"https:\/\/www.postalpantry.co.uk\/\">The Postal Pantry<\/a><\/h2><p>The Postal Pantry is a online Delivery service based in Devon. They offer FREE DELIVERY to selected South Devon postcodes throughout the week with no minimum spend. There are also FREE Delivery Options for the rest of mainland UK.<\/p>"
+            "text": "<h2><a href=\"https:\/\/www.postalpantry.co.uk\/\" target=\"_blank\" title=\"The Postal Pantry\">The Postal Pantry<\/a><\/h2><p>The Postal Pantry is a online Delivery service based in Devon. They offer FREE DELIVERY to selected South Devon postcodes throughout the week with no minimum spend. There are also FREE Delivery Options for the rest of mainland UK.<\/p>"
           }
         }
       },
@@ -65,11 +65,87 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "rich_text_UCc6xK": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_m3Rjpk": {
+          "type": "heading",
+          "settings": {
+            "heading": "Buckfastleigh",
+            "heading_size": "h1"
+          }
+        },
+        "text_YyeDeh": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><a href=\"https:\/\/goo.gl\/maps\/qBearMAu38GM8doT7\" target=\"_blank\" title=\"Dean Court Farm Shop\">Dean Court Farm Shop<\/a><\/h2><p>Dean Court Farm Shop, Lower Dean, Buckfastleigh, TQ11 0LT<\/p>"
+          }
+        },
+        "text_J7M7eT": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><a href=\"https:\/\/goo.gl\/maps\/xbY9pQ2tYnP7uCfe8\" target=\"_blank\" title=\"The Seed Wholefood Store and Cafe\">The Seed Wholefood Store and Cafe<\/a><\/h2><p>40 Fore Street, Buckfastleigh, TQ11 0AA<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_m3Rjpk",
+        "text_YyeDeh",
+        "text_J7M7eT"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_HdFKTc": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_RcCmGi": {
+          "type": "heading",
+          "settings": {
+            "heading": "Dartmouth",
+            "heading_size": "h1"
+          }
+        },
+        "text_xNBgiL": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><a href=\"https:\/\/goo.gl\/maps\/TxsCdyfYRy211d799\" target=\"_blank\" title=\"The Deli at Dartmouth\">The Deli at Dartmouth<\/a><\/h2><p>22 Duke Street, Dartmouth, TQ6 9PZ<\/p>"
+          }
+        },
+        "text_JBmKhB": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>The Sloping Deck Restaurant & Dartmouth Bakeries<\/h2><p>10 Duke Street, Butterwalk, Dartmouth TQ6 9PZ<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_RcCmGi",
+        "text_xNBgiL",
+        "text_JBmKhB"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
     "image_banner_czgVC6",
-    "rich_text_jQUkp8"
+    "rich_text_jQUkp8",
+    "rich_text_UCc6xK",
+    "rich_text_HdFKTc"
   ]
 }
