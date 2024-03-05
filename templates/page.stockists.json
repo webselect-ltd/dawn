@@ -228,12 +228,19 @@
           "settings": {
             "text": "<h2><a href=\"https:\/\/goo.gl\/maps\/QbCZYBYnWzsiambK8\" target=\"_blank\" title=\"Springfield Farm Shop\">Springfield Farm Shop<\/a><\/h2><p>Springfield Farm Shop, Kingsbridge, TQ7 2AR<\/p>"
           }
+        },
+        "text_LCPrFc": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><a href=\"https:\/\/goo.gl\/maps\/Ypbnnyu8N2k3HBf2A\" target=\"_blank\" title=\"Ashby's of Kingsbridge\">Ashby's of Kingsbridge<\/a><\/h2><p>Springfield Farm Shop, Kingsbridge, TQ7 2AR<\/p>"
+          }
         }
       },
       "block_order": [
         "heading_84B8VJ",
         "text_9TVrVF",
-        "text_bewQxF"
+        "text_bewQxF",
+        "text_LCPrFc"
       ],
       "settings": {
         "desktop_content_position": "center",
