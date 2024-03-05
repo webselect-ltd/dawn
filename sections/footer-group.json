@@ -5,24 +5,51 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "footer-0": {
-          "type": "link_list",
+        "image_YpLGdT": {
+          "type": "image",
           "settings": {
-            "heading": "Quick links",
-            "menu": "footer"
+            "image_width": 100,
+            "alignment": "center"
           }
         },
-        "footer-1": {
-          "type": "link_list",
+        "image_enWUUn": {
+          "type": "image",
           "settings": {
-            "heading": "Info",
-            "menu": "footer"
+            "image_width": 100,
+            "alignment": "center"
+          }
+        },
+        "image_G4n6qf": {
+          "type": "image",
+          "settings": {
+            "image_width": 100,
+            "alignment": "center"
+          }
+        },
+        "image_MLapRc": {
+          "type": "image",
+          "settings": {
+            "image_width": 100,
+            "alignment": "center"
+          }
+        },
+        "image_RKcFxU": {
+          "type": "image",
+          "settings": {
+            "image_width": 100,
+            "alignment": "center"
           }
         }
       },
       "block_order": [
-        "footer-0",
-        "footer-1"
+        "image_YpLGdT",
+        "image_enWUUn",
+        "image_G4n6qf",
+        "image_MLapRc",
+        "image_RKcFxU"
+      ],
+      "custom_css": [
+        "footer {grid-template-columns: repeat(5, 1fr) !important}"
       ],
       "settings": {
         "color_scheme": "scheme-1",
