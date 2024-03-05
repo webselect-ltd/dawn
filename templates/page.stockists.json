@@ -288,11 +288,18 @@
           "settings": {
             "text": "<h2><a href=\"https:\/\/goo.gl\/maps\/NAjm7731CjZTbbuD6\" target=\"_blank\" title=\"Mackgills Delicatessen\">Mackgills Delicatessen<\/a><\/h2><p>4 Church Street, Modbury, Ivybridge, PL21 0QW<\/p>"
           }
+        },
+        "text_Jwz3LM": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Spar California Cross<\/h2><p>California Cross Service Station, Brownston, PL21 0SG<\/p>"
+          }
         }
       },
       "block_order": [
         "heading_hkyf9h",
-        "text_8BfWwN"
+        "text_8BfWwN",
+        "text_Jwz3LM"
       ],
       "settings": {
         "desktop_content_position": "center",
