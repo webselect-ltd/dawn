@@ -81,23 +81,11 @@
           "settings": {
             "text": "<p>Orders are usually dispatched within 24 hours, but it may be a little longer during busy periods. Shipping is with Royal Mail Tracked 48, so it won’t be too long before you can enjoy your honey. If you’d like to specify a safe place for delivery, please use the order notes box at checkout to do so.<\/p>"
           }
-        },
-        "button_V7agfT": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "heading_pH8VMe",
-        "text_WGrwde",
-        "button_V7agfT"
+        "text_WGrwde"
       ],
       "settings": {
         "desktop_content_position": "center",
