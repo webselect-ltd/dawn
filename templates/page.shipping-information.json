@@ -14,50 +14,105 @@
         "heading_xQqDRf": {
           "type": "heading",
           "settings": {
-            "heading": "{{ page.title }}",
+            "heading": "<strong>{{ page.title }}<\/strong>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_xQqDRf"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pexels-grigoriy-9906414.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-9dac617e-5de1-48a5-985b-947008bdae63",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "rich_text_hHCbw3": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_dEhjT8": {
+          "type": "heading",
+          "settings": {
+            "heading": "How much does shipping cost?",
             "heading_size": "h1"
           }
         },
-        "text_xCA4DY": {
+        "text_hYq46h": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
+            "text": "<p>Shipping costs will automatically be calculated at the checkout based on the total weight of your order. Please note that your order weight it more than just the per jar weight as we account for packing materials to make sure your honey arrives safely. Our shipping rates apply to UK mainland only, for highlands, islands and overseas, please <a href=\"\/pages\/contact\" title=\"Contact\">get in touch<\/a> for a bespoke shipping quote.<\/p><p>Shipping starts at <strong>£3.50<\/strong> for up to 2kg, then <strong>£6.95<\/strong> for up to 5kg, and <strong>£8.50<\/strong> for up to 15kg.<\/p><p>Shipping is free if you spend more than £15.00.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_dEhjT8",
+        "text_hYq46h"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_LJqnNU": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_pH8VMe": {
+          "type": "heading",
+          "settings": {
+            "heading": "Courier & Timescales",
+            "heading_size": "h1"
           }
         },
-        "buttons_YwQfT8": {
-          "type": "buttons",
+        "text_WGrwde": {
+          "type": "text",
           "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "text": "<p>Orders are usually dispatched within 24 hours, but it may be a little longer during busy periods. Shipping is with Royal Mail Tracked 48, so it won’t be too long before you can enjoy your honey. If you’d like to specify a safe place for delivery, please use the order notes box at checkout to do so.<\/p>"
+          }
+        },
+        "button_V7agfT": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "heading_xQqDRf",
-        "text_xCA4DY",
-        "buttons_YwQfT8"
+        "heading_pH8VMe",
+        "text_WGrwde",
+        "button_V7agfT"
       ],
       "settings": {
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
   "order": [
     "main",
-    "image_banner_jtLnLm"
+    "image_banner_jtLnLm",
+    "rich_text_hHCbw3",
+    "rich_text_LJqnNU"
   ]
 }
