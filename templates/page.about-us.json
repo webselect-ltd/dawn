@@ -14,7 +14,7 @@
         "heading_4qqHUz": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>About Us<\/strong>",
+            "heading": "<strong>{{ page.title }}<\/strong>",
             "heading_size": "h1"
           }
         }
