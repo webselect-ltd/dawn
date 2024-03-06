@@ -114,9 +114,9 @@
         "collapsible_row_Nck38J": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "Is Stone's Honey suitable for Vegans?",
+            "icon": "none",
+            "row_content": "<p>Honey is a by-product of bees, so suitability is down to individual preference.<\/p>",
             "page": ""
           }
         },
