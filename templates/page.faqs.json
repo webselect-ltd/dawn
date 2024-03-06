@@ -87,18 +87,18 @@
         "collapsible_row_PYikJb": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "Will my honey go off?",
+            "icon": "none",
+            "row_content": "<p>No. Due to regulations, we must add a best before date, but remember that is not a \"use by date\" In fact, archaeologists have often found honey in Egyptian tombs. This honey is thousands of years old and still edible!<\/p>",
             "page": ""
           }
         },
         "collapsible_row_aByY9i": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "Is Stone's Honey gluten free?",
+            "icon": "none",
+            "row_content": "<p>All our honey is gluten free.<\/p>",
             "page": ""
           }
         },
