@@ -60,27 +60,27 @@
         "collapsible_row_DMMCn9": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "Is honey safe for infants?",
+            "icon": "none",
+            "row_content": "<p>Honey is not suitable for infants under 12 months of age.<\/p>",
             "page": ""
           }
         },
         "collapsible_row_ddKjCN": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "How should honey be stored?",
+            "icon": "none",
+            "row_content": "<p>Honey should be stored at room temperature away from direct sunlight.<\/p>",
             "page": ""
           }
         },
         "collapsible_row_jQXLwi": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "How do I become a stockist of your honey?",
+            "icon": "none",
+            "row_content": "<p>Please <a href=\"\/pages\/contact\" title=\"Contact\">contact us<\/a>. We will be able to answer any questions and provide you with prices and minimum order quantities etc.<\/p>",
             "page": ""
           }
         },
