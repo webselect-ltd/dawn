@@ -43,7 +43,7 @@
           "type": "column",
           "settings": {
             "title": "General enquiries",
-            "text": "<p>info@stoneshoney.com<\/p>",
+            "text": "<p><a href=\"mailto:info@stoneshoney.com\">info@stoneshoney.com<\/a><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -52,7 +52,7 @@
           "type": "column",
           "settings": {
             "title": "Sales enquiries",
-            "text": "<p>sales@stoneshoney.com<\/p>",
+            "text": "<p><a href=\"mailto:sales@stoneshoney.com\">sales@stoneshoney.com<\/a><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -61,7 +61,7 @@
           "type": "column",
           "settings": {
             "title": "Jason Stone",
-            "text": "<p>jason@stoneshoney.com<\/p>",
+            "text": "<p><a href=\"mailto:jason@stoneshoney.com\">jason@stoneshoney.com<\/a><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -70,7 +70,7 @@
           "type": "column",
           "settings": {
             "title": "Telephone",
-            "text": "<p>07944 745153<\/p>",
+            "text": "<p><a href=\"tel:07944745153\">07944 745153<\/a><\/p>",
             "link_label": "",
             "link": ""
           }
