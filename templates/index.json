@@ -101,9 +101,26 @@
     "featured_blog_Mfdhw6": {
       "type": "featured-blog",
       "settings": {
-        "heading": "NEWS FROM THE APIARY",
+        "heading": "<strong>NEWS FROM THE APIARY<\/strong>",
         "heading_size": "h2",
         "blog": "news-from-the-apiary",
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "color_scheme": "scheme-1",
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_blog_BwUxAt": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "<strong>RECIPES<\/strong>",
+        "heading_size": "h2",
+        "blog": "recipes",
         "post_limit": 3,
         "columns_desktop": 3,
         "color_scheme": "",
@@ -120,6 +137,7 @@
     "image_banner",
     "rich_text",
     "featured_collection",
-    "featured_blog_Mfdhw6"
+    "featured_blog_Mfdhw6",
+    "featured_blog_BwUxAt"
   ]
 }
