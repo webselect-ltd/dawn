@@ -113,6 +113,10 @@
     "show_vendor": false,
     "show_cart_note": true,
     "cart_drawer_collection": "",
+    "checkout_logo_image": "shopify:\/\/shop_images\/Stones-Honey-Logo-Enfold-Orange_8d2e13c8-0c5f-4195-9afa-f31510fbc0de.png",
+    "checkout_body_background_color": "#ffffff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_accent_color": "#1773b0",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
