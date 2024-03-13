@@ -7,13 +7,13 @@
           "type": "heading",
           "settings": {
             "heading": "<strong>Stone's Honey<\/strong>",
-            "heading_size": "h0"
+            "heading_size": "h2"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "100% Pure, Natural, Devon Honey",
+            "text": "<strong>100% Pure, Natural, Devon Honey<\/strong>",
             "text_style": "body"
           }
         },
