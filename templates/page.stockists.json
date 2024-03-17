@@ -253,23 +253,42 @@
     },
     "rich_text_dxBHdg": {
       "type": "rich-text",
-      "blocks": {
-        "text_3Nw6Ut": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Alans Apple<\/h2><p>26 Fore Street, Kingsbridge, Tq7 1NY<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_3Nw6Ut"
-      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
         "padding_top": 20,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_d6WiAJ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_wMRPMa": {
+          "type": "heading",
+          "settings": {
+            "heading": "London",
+            "heading_size": "h1"
+          }
+        },
+        "text_bCet3d": {
+          "type": "text",
+          "settings": {
+            "text": "<p><span style=\"text-decoration:underline\"><strong>W Martin Tea and Coffee Shop<\/strong><\/span><\/p><p>135 Muswell Hill Broadway, Muswell Hill, North London                            N10 3RS<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_wMRPMa",
+        "text_bCet3d"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
         "padding_bottom": 52
       }
     },
@@ -566,6 +585,7 @@
     "rich_text_WRrdpA",
     "rich_text_GKy7PU",
     "rich_text_dxBHdg",
+    "rich_text_d6WiAJ",
     "rich_text_hgtNdQ",
     "rich_text_aBARdE",
     "rich_text_fB3Eec",
