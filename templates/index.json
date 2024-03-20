@@ -106,7 +106,7 @@
         "section_color_scheme": "scheme-64bcdae5-b3f4-471e-b300-bafb36534969",
         "color_scheme": "scheme-64bcdae5-b3f4-471e-b300-bafb36534969",
         "image_behavior": "none",
-        "mobile_content_alignment": "left",
+        "mobile_content_alignment": "center",
         "padding_top": 36,
         "padding_bottom": 36
       }
