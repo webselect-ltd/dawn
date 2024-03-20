@@ -96,14 +96,14 @@
         ".image-with-text__media {border: none;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/great-taste-producer_705b9689-890b-4d8d-8da0-cf865eabdaf7.png",
+        "image": "shopify:\/\/shop_images\/great-taste-producer_d6b03d5e-6122-4692-bcb7-8edb00bc5612.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "section_color_scheme": "scheme-4",
+        "section_color_scheme": "scheme-64bcdae5-b3f4-471e-b300-bafb36534969",
         "color_scheme": "scheme-64bcdae5-b3f4-471e-b300-bafb36534969",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
