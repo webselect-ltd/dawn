@@ -27,12 +27,6 @@
             "swatch_shape": "circle"
           }
         },
-        "custom_liquid_bza8He": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<p style=\"font-size: 12px\">\nIf you are purchasing honey as gift, why not add one of our gift message cards to your order and send a personalised message.\n<\/p>\n<p style=\"font-size: 12px\">\nOur gift message cards can be added to any order and the order shipped directly to your recipient.\n<\/p>\n<p style=\"font-size: 12px\">\nAdd the gift note to your cart, and type your message in the box on the checkout page.\n<\/p>"
-          }
-        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {
@@ -56,7 +50,6 @@
         "caption",
         "price",
         "variant_picker",
-        "custom_liquid_bza8He",
         "quantity_selector",
         "buy_buttons",
         "description"
