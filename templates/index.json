@@ -111,6 +111,60 @@
         "padding_bottom": 36
       }
     },
+    "slideshow_ri3t7V": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_EGrP4F": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Collage_2023-08-03_21_41_34.jpg_smaller.jpg",
+            "heading": "Award winning Dartmoor Honey Trio",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "BUY NOW",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "bottom-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_rCYqrf": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_EGrP4F",
+        "slide_rCYqrf"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
     "image_with_text_rWgydw": {
       "type": "image-with-text",
       "blocks": {
@@ -216,6 +270,7 @@
     "image_banner",
     "rich_text",
     "image_with_text_i9xNQi",
+    "slideshow_ri3t7V",
     "image_with_text_rWgydw",
     "featured_collection",
     "featured_blog_Mfdhw6",
