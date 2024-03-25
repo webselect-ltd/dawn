@@ -27,10 +27,23 @@
             "swatch_shape": "circle"
           }
         },
-        "custom_liquid_MnDC8E": {
-          "type": "custom_liquid",
+        "icon_with_text_9GyfDF": {
+          "type": "icon-with-text",
           "settings": {
-            "custom_liquid": "<p style=\"font-size: 12px\">\nIf you are purchasing honey as gift, why not add one of our gift message cards to your order and send a personalised message.\n<\/p>\n<p style=\"font-size: 12px\">\nOur gift message cards can be added to any order and the order shipped directly to your recipient.\n<\/p>\n<p style=\"font-size: 12px\">\nAdd the gift note to your cart, and type your message in the box on the checkout page.\n<\/p>"
+            "layout": "vertical",
+            "icon_1": "heart",
+            "heading_1": "If you are purchasing honey as gift, why not add one of our gift message cards to your order and send a personalised message.",
+            "icon_2": "return",
+            "heading_2": "",
+            "icon_3": "truck",
+            "heading_3": ""
+          }
+        },
+        "popup_xRBKBW": {
+          "type": "popup",
+          "settings": {
+            "text": "Click here for more information on the gift card",
+            "page": "gift-card"
           }
         },
         "quantity_selector": {
@@ -56,7 +69,8 @@
         "caption",
         "price",
         "variant_picker",
-        "custom_liquid_MnDC8E",
+        "icon_with_text_9GyfDF",
+        "popup_xRBKBW",
         "quantity_selector",
         "buy_buttons",
         "description"
@@ -93,20 +107,11 @@
             "text": "<p>If you are purchasing honey as gift, why not add one of our gift message cards to your order and send a personalised message.<\/p><p>Our gift message cards can be added to any order and the order shipped directly to your recipient.<\/p><p>Add the gift note to your cart, and type your message in the box on the checkout page.<\/p>",
             "text_style": "body"
           }
-        },
-        "button_xPgdHd": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
         }
       },
       "block_order": [
         "heading_cCeymF",
-        "text_PmRKnB",
-        "button_xPgdHd"
+        "text_PmRKnB"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG-20230216-WA0016_3f4b68d0-8e1d-458b-933c-6b3a48a25e11.jpg",
@@ -119,7 +124,7 @@
         "section_color_scheme": "",
         "color_scheme": "",
         "image_behavior": "none",
-        "mobile_content_alignment": "left",
+        "mobile_content_alignment": "center",
         "padding_top": 36,
         "padding_bottom": 36
       }
