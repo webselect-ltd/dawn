@@ -27,11 +27,16 @@
             "swatch_shape": "circle"
           }
         },
-        "popup_FgwN9r": {
-          "type": "popup",
+        "icon_with_text_knYigV": {
+          "type": "icon-with-text",
           "settings": {
-            "text": "Would you like to send a complementary gift card message?",
-            "page": "gift-card"
+            "layout": "vertical",
+            "icon_1": "heart",
+            "heading_1": "If you are purchasing honey as gift, why not add one of our complementary gift message cards to your order and send a personalised message. Just <strong>add a note using the gift card message in the cart <\/strong>and we will send it with your order.",
+            "icon_2": "return",
+            "heading_2": "",
+            "icon_3": "truck",
+            "heading_3": ""
           }
         },
         "quantity_selector": {
@@ -57,13 +62,13 @@
         "caption",
         "price",
         "variant_picker",
-        "popup_FgwN9r",
+        "icon_with_text_knYigV",
         "quantity_selector",
         "buy_buttons",
         "description"
       ],
       "custom_css": [
-        ".product-popup-modal__content-info h1 {display: none !important;}"
+        ".icon-with-text .inline-richtext {font-size: 12px;}"
       ],
       "settings": {
         "enable_sticky_info": true,
