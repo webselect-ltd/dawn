@@ -103,10 +103,18 @@
             "heading": "Send a complementary gift card message...",
             "heading_size": "h1"
           }
+        },
+        "text_p8V3aK": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Just your message to the gift message box in the cart and we will send it with your order.<\/p>",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
-        "heading_cCeymF"
+        "heading_cCeymF",
+        "text_p8V3aK"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG-20230216-WA0016_3f4b68d0-8e1d-458b-933c-6b3a48a25e11.jpg",
