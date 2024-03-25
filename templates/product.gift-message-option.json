@@ -27,6 +27,11 @@
             "swatch_shape": "circle"
           }
         },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
         "icon_with_text_knYigV": {
           "type": "icon-with-text",
           "settings": {
@@ -37,11 +42,6 @@
             "heading_2": "",
             "icon_3": "truck",
             "heading_3": ""
-          }
-        },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "settings": {
           }
         },
         "buy_buttons": {
@@ -62,8 +62,8 @@
         "caption",
         "price",
         "variant_picker",
-        "icon_with_text_knYigV",
         "quantity_selector",
+        "icon_with_text_knYigV",
         "buy_buttons",
         "description"
       ],
