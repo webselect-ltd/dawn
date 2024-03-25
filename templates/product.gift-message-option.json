@@ -107,7 +107,7 @@
         "text_p8V3aK": {
           "type": "text",
           "settings": {
-            "text": "<p>Just your message to the gift message box in the cart and we will send it with your order.<\/p>",
+            "text": "<p>Just add your message to the gift message box in the cart and we will send it with your order.<\/p>",
             "text_style": "body"
           }
         }
