@@ -63,7 +63,7 @@
         "description"
       ],
       "custom_css": [
-        ".icon-with-text .inline-richtext {font-size: 14px;}"
+        ".product-popup-modal__content-info h1 {display: none !important;}"
       ],
       "settings": {
         "enable_sticky_info": true,
