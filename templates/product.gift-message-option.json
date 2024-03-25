@@ -31,19 +31,19 @@
           "type": "icon-with-text",
           "settings": {
             "layout": "vertical",
-            "icon_1": "heart",
-            "heading_1": "If you are purchasing honey as gift, why not add one of our gift message cards to your order and send a personalised message.",
+            "icon_1": "chat_bubble",
+            "image_1": "shopify:\/\/shop_images\/bee.png",
+            "heading_1": "If you are purchasing honey as gift, why not add one of our complementary gift message cards to your order and send a personalised message.",
             "icon_2": "return",
             "heading_2": "",
             "icon_3": "truck",
             "heading_3": ""
           }
         },
-        "popup_xRBKBW": {
-          "type": "popup",
+        "custom_liquid_4na74k": {
+          "type": "custom_liquid",
           "settings": {
-            "text": "Click here for more information on the gift card",
-            "page": "gift-card"
+            "custom_liquid": "<p style=\"font-size: 12px; margin-top: -10px;\">Our gift message cards can be added to any order and the order shipped directly to your recipient.\n<\/p>\n<p style=\"font-size: 12px; margin-top: -10px; font-weight: bold\">Add your message to the gift message box in the cart and we will send it with your order.<\/p>"
           }
         },
         "quantity_selector": {
@@ -70,10 +70,13 @@
         "price",
         "variant_picker",
         "icon_with_text_9GyfDF",
-        "popup_xRBKBW",
+        "custom_liquid_4na74k",
         "quantity_selector",
         "buy_buttons",
         "description"
+      ],
+      "custom_css": [
+        ".icon-with-text .inline-richtext {font-size: 14px;}"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -97,21 +100,13 @@
         "heading_cCeymF": {
           "type": "heading",
           "settings": {
-            "heading": "Free gift card message!",
-            "heading_size": "h2"
-          }
-        },
-        "text_PmRKnB": {
-          "type": "text",
-          "settings": {
-            "text": "<p>If you are purchasing honey as gift, why not add one of our gift message cards to your order and send a personalised message.<\/p><p>Our gift message cards can be added to any order and the order shipped directly to your recipient.<\/p><p>Add the gift note to your cart, and type your message in the box on the checkout page.<\/p>",
-            "text_style": "body"
+            "heading": "Send a complementary gift card message...",
+            "heading_size": "h1"
           }
         }
       },
       "block_order": [
-        "heading_cCeymF",
-        "text_PmRKnB"
+        "heading_cCeymF"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG-20230216-WA0016_3f4b68d0-8e1d-458b-933c-6b3a48a25e11.jpg",
