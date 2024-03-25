@@ -77,6 +77,53 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_mfzKdj": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_cCeymF": {
+          "type": "heading",
+          "settings": {
+            "heading": "Free gift card message!",
+            "heading_size": "h2"
+          }
+        },
+        "text_PmRKnB": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you are purchasing honey as gift, why not add one of our gift message cards to your order and send a personalised message.<\/p><p>Our gift message cards can be added to any order and the order shipped directly to your recipient.<\/p><p>Add the gift note to your cart, and type your message in the box on the checkout page.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_xPgdHd": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_cCeymF",
+        "text_PmRKnB",
+        "button_xPgdHd"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG-20230216-WA0016_3f4b68d0-8e1d-458b-933c-6b3a48a25e11.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "rich_text_amcLx9": {
       "type": "rich-text",
       "blocks": {
@@ -128,6 +175,7 @@
   },
   "order": [
     "main",
+    "image_with_text_mfzKdj",
     "rich_text_amcLx9",
     "related-products"
   ]
