@@ -4,7 +4,7 @@
       "type": "main-list-collections",
       "settings": {
         "title": "Collections",
-        "sort": "alphabetical",
+        "sort": "products_high",
         "image_ratio": "square",
         "columns_desktop": 5,
         "columns_mobile": "2"
