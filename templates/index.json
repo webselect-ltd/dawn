@@ -132,7 +132,7 @@
           "type": "button",
           "settings": {
             "button_label": "BUY NOW",
-            "button_link": "",
+            "button_link": "shopify:\/\/products\/dartmoor-honey-trio-3-jar-selection-3-x-227g-1",
             "button_style_secondary": false
           }
         }
