@@ -8,7 +8,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Free Gift Message with every order",
+            "text": "Add a free Gift Message to any order",
             "link": ""
           }
         },
@@ -37,7 +37,7 @@
         "show_line_separator": true,
         "show_social": false,
         "auto_rotate": true,
-        "change_slides_speed": 4,
+        "change_slides_speed": 3,
         "enable_country_selector": false,
         "enable_language_selector": false
       }
