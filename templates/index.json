@@ -158,6 +158,53 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_kHbMRg": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_r6Qrma": {
+          "type": "heading",
+          "settings": {
+            "heading": "CHOC-NEY",
+            "heading_size": "h1"
+          }
+        },
+        "text_t8VHhw": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Stone's Honey Choc-ney is a delicious fusion of two great flavours, combining the smooth, velvety taste of chocolate with the natural sweetness of honey. Made with just two ingredients - pure Stone's Honey Devon honey and organic raw cacao - Choc-ney brings a twist to traditional honey.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_mKEdM9": {
+          "type": "button",
+          "settings": {
+            "button_label": "Buy Now",
+            "button_link": "shopify:\/\/products\/stones-honey-choc-ney-360g",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_r6Qrma",
+        "text_t8VHhw",
+        "button_mKEdM9"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Collage_2024-04-01_21_11_39.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-9dac617e-5de1-48a5-985b-947008bdae63",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_with_text_rWgydw": {
       "type": "image-with-text",
       "blocks": {
@@ -264,6 +311,7 @@
     "rich_text",
     "image_with_text_i9xNQi",
     "image_with_text_VqHntA",
+    "image_with_text_kHbMRg",
     "image_with_text_rWgydw",
     "featured_collection",
     "featured_blog_Mfdhw6",
