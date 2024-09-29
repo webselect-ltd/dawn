@@ -15,14 +15,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<a href=\"\/blogs\/blog\/pocket-meadow-project\" title=\"Toby's Pocket Meadow Project\"><strong>JOIN OUR POCKET MEADOW PROJECT<\/strong><\/a>",
+            "heading": "A MEADOW IN THE HEART OF YOUR COMMUNITY",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<a href=\"\/products\/pocket-meadows\" title=\"Pocket Meadows\"><strong>SAVE 33% ON OUR BEST-SELLING MINI-MEADOWS<\/strong><\/a>",
+            "text": "<a href=\"/products/pocket-meadows\" title=\"Pocket Meadows\"><strong>SAVE 33% ON OUR BEST-SELLING MINI-MEADOWS</strong></a>",
             "text_style": "subtitle"
           }
         }
@@ -32,7 +32,7 @@
         "text"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Riverside_1.jpg",
+        "image": "shopify://shop_images/Riverside_1.jpg",
         "image_overlay_opacity": 20,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -58,7 +58,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>For over 10 years we have been helping people to go wild in their gardens and working with community groups, councils and landscapers across the UK to transform monocultures into wildlife friendly planting schemes. <\/p><p>All our flower seed mixes are tested for biodiversity value, attracting birds, butterflies and bees, and the spellbinding impact of the displays is nothing short of inspirational, helping to rebuild a greater connection with  nature.<\/p>"
+            "text": "<p>For over 10 years we have been helping people to go wild in their gardens and working with community groups, councils and landscapers across the UK to transform monocultures into wildlife friendly planting schemes. </p><p>All our flower seed mixes are tested for biodiversity value, attracting birds, butterflies and bees, and the spellbinding impact of the displays is nothing short of inspirational, helping to rebuild a greater connection with  nature.</p>"
           }
         }
       },
@@ -128,8 +128,8 @@
         "heading": "THE MAKING OF A FLOWERBED MEADOW - RHS ROSEMOOR",
         "heading_size": "h2",
         "enable_video_looping": false,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=43bt6nziQ_g",
-        "cover_image": "shopify:\/\/shop_images\/Rosemoor-meadow.jpg",
+        "video_url": "https://www.youtube.com/watch?v=43bt6nziQ_g",
+        "cover_image": "shopify://shop_images/Rosemoor-meadow.jpg",
         "description": "The making of flower meadow",
         "full_width": false,
         "color_scheme": "scheme-1",
@@ -143,14 +143,14 @@
         "template--21854089085222__bb506e34-0c4d-41f1-b3a5-5d72dc3aa380-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>What we do...<\/strong>",
+            "heading": "<strong>What we do...</strong>",
             "heading_size": "h1"
           }
         },
         "template--21854089085222__bb506e34-0c4d-41f1-b3a5-5d72dc3aa380-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Meadow in my Garden<\/strong> is a not-for-profit CIC, promoting gardening for wildlife. We supply an extensive range of unique, expertly designed seed mixtures, providing a spectacular long-flowering succession for the benefit of people and pollinators.<\/p><p>Our work is exclusively funded through seed sales, online and at <a href=\"https:\/\/meadowinmygarden.co.uk\/pages\/events-2024\" title=\"Meadow In My Garden - 2024 events\">shows across the country<\/a>,  and through generous donations. <\/p><p><strong>Thank you for your support.<\/strong><\/p>",
+            "text": "<p><strong>Meadow in my Garden</strong> is a not-for-profit CIC, promoting gardening for wildlife. We supply an extensive range of unique, expertly designed seed mixtures, providing a spectacular long-flowering succession for the benefit of people and pollinators.</p><p>Our work is exclusively funded through seed sales, online and at <a href=\"https://meadowinmygarden.co.uk/pages/events-2024\" title=\"Meadow In My Garden - 2024 events\">shows across the country</a>,  and through generous donations. </p><p><strong>Thank you for your support.</strong></p>",
             "text_style": "body"
           }
         }
@@ -160,7 +160,7 @@
         "template--21854089085222__bb506e34-0c4d-41f1-b3a5-5d72dc3aa380-text-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/AMIMG_TGF24-1_9d9587d1-8b56-402f-9aba-c35970961a2a.jpg",
+        "image": "shopify://shop_images/AMIMG_TGF24-1_9d9587d1-8b56-402f-9aba-c35970961a2a.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -205,7 +205,7 @@
         "template--21854089085222__bc129793-3812-4eb2-813e-85f508776303-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h2>Every penny counts in the struggle to create more pollinator-friendly habitats<\/h2><p>The future of Britain’s bees hangs in the balance. Over the last few decades, we’ve lost 97% of our wildflower meadows. Our bee's food supply is starting to run out. And if they’ve got less food, there’ll be fewer bees to pollinate our crops - which means we’ll have less food too. <\/p><p>Evidence shows that planting bee-friendly flowers in our gardens could be the key to saving our bees. And if tens of thousands of us come together, we could plant enough flowers to make sure that our bees have the food that they need to thrive!<\/p>"
+            "text": "<h2>Every penny counts in the struggle to create more pollinator-friendly habitats</h2><p>The future of Britain’s bees hangs in the balance. Over the last few decades, we’ve lost 97% of our wildflower meadows. Our bee's food supply is starting to run out. And if they’ve got less food, there’ll be fewer bees to pollinate our crops - which means we’ll have less food too. </p><p>Evidence shows that planting bee-friendly flowers in our gardens could be the key to saving our bees. And if tens of thousands of us come together, we could plant enough flowers to make sure that our bees have the food that they need to thrive!</p>"
           }
         }
       },
@@ -225,7 +225,7 @@
     "custom_liquid_NrpLMb": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<form style=\"text-align:center;\" method=\"post\" action=\"https:\/\/www.paypal.com\/donate\" target=\"_top\">\n<p><input value=\"4T8RHH7R93B26\" name=\"hosted_button_id\" type=\"hidden\"> <input alt=\"Donate with PayPal button\" title=\"PayPal - The safer, easier way to pay online!\" border=\"0\" src=\"https:\/\/www.paypalobjects.com\/en_US\/GB\/i\/btn\/btn_donateCC_LG.gif\" type=\"image\"> <img height=\"1\" width=\"1\" src=\"https:\/\/www.paypal.com\/en_GB\/i\/scr\/pixel.gif\" border=\"0\" alt=\"\"><\/p>\n<\/form>",
+        "custom_liquid": "<form style=\"text-align:center;\" method=\"post\" action=\"https://www.paypal.com/donate\" target=\"_top\">\n<p><input value=\"4T8RHH7R93B26\" name=\"hosted_button_id\" type=\"hidden\"> <input alt=\"Donate with PayPal button\" title=\"PayPal - The safer, easier way to pay online!\" border=\"0\" src=\"https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif\" type=\"image\"> <img height=\"1\" width=\"1\" src=\"https://www.paypal.com/en_GB/i/scr/pixel.gif\" border=\"0\" alt=\"\"></p>\n</form>",
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 0
