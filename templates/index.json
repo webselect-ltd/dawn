@@ -18,18 +18,10 @@
             "heading": "<a href=\"/blogs/blog/were-taking-a-break\" title=\"We're taking a break!\">Store Closure from November 2024</a>",
             "heading_size": "h1"
           }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<a href=\"https://meadowinmygarden.co.uk/products/pocket-meadows\" title=\"Pocket Meadows\">Professionally designed Mini-Meadows from just £4.95</a>",
-            "text_style": "subtitle"
-          }
         }
       },
       "block_order": [
-        "heading",
-        "text"
+        "heading"
       ],
       "settings": {
         "image": "shopify://shop_images/Riverside_1.jpg",
