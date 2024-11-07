@@ -15,7 +15,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<a href=\"/blogs/blog/were-taking-a-break\" title=\"We're taking a break!\"><strong>STORE CLOSURE FROM NOVEMBER 2024</strong></a>",
+            "heading": "<a href=\"/blogs/blog/were-taking-a-break\" title=\"We're taking a break!\">STORE CLOSURE FROM NOVEMBER 2024</a>",
             "heading_size": "h1"
           }
         }
