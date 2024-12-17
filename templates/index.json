@@ -15,7 +15,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "OUR STORE IS CLOSED FOR STOCK TAKING but please do some window shopping!",
+            "heading": "Our store is <strong>CLOSED FOR STOCK TAKING</strong> but please do some window shopping!",
             "heading_size": "h1"
           }
         },
