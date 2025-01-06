@@ -51,7 +51,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "What we do...",
+            "heading": "<strong>What we do...</strong>",
             "heading_size": "h1"
           }
         },
