@@ -51,7 +51,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>What we do...</strong>",
+            "heading": "<a href=\"/pages/our-services\" title=\"Our Services\"><strong>What we do...</strong></a>",
             "heading_size": "h1"
           }
         },
