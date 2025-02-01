@@ -15,7 +15,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Order your pack of our LADYBIRD HEAVEN seeds for just £1 plus postage</strong>",
+            "heading": "<a href=\"/products/ladybird-heaven-seed-mix\" title=\"Ladybird Heaven\"><strong>Order your pack of our LADYBIRD HEAVEN seeds for just £1 plus postage</strong></a>",
             "heading_size": "h1"
           }
         },
