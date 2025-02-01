@@ -15,7 +15,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "- <a href=\"/products/ladybird-heaven-seed-mix\" title=\"Ladybird Heaven\"><strong>Order your flower meadow seeds today   -  from £1 plus postage</strong></a>",
+            "heading": "<strong>-</strong> <a href=\"/products/ladybird-heaven-seed-mix\" title=\"Ladybird Heaven\"><strong>Order your flower meadow seeds today   -  from £1 plus postage</strong></a>",
             "heading_size": "h1"
           }
         },
