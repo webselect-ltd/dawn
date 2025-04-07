@@ -15,7 +15,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>* Come and see us</strong> <strong>on the Isle of Wight * </strong>next orders despatched Friday 11th April",
+            "heading": "<strong>* Come and see us</strong> <strong>on</strong><a href=\"https://northwoodhouse.org/events2/events/\" title=\"Northwood Art & Garden Fair\"><strong> the Isle of Wight </strong></a><strong>* </strong>next orders despatched Friday 11th April",
             "heading_size": "h1"
           }
         },
