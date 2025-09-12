@@ -79,6 +79,53 @@
         "padding_bottom": 40
       }
     },
+    "image_with_text_kHbMRg": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_r6Qrma": {
+          "type": "heading",
+          "settings": {
+            "heading": "Cut Comb Honey",
+            "heading_size": "h1"
+          }
+        },
+        "text_t8VHhw": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Cut comb honey is honey in its most natural form, just as nature intended. No filtering. No pasteurising. No processing. Just raw, delicious honey sealed in beeswax comb, hand-cut straight from the hive.<br/><br/></p>",
+            "text_style": "body"
+          }
+        },
+        "button_mKEdM9": {
+          "type": "button",
+          "settings": {
+            "button_label": "Buy Now",
+            "button_link": "shopify://products/devon-cut-comb-honey-100-pure-raw-honeycomb-min-170g",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_r6Qrma",
+        "text_t8VHhw",
+        "button_mKEdM9"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/20250714_145741.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-9dac617e-5de1-48a5-985b-947008bdae63",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_with_text_i9xNQi": {
       "type": "image-with-text",
       "blocks": {
@@ -163,53 +210,6 @@
         "color_scheme": "",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_kHbMRg": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_r6Qrma": {
-          "type": "heading",
-          "settings": {
-            "heading": "CHOC-NEY",
-            "heading_size": "h1"
-          }
-        },
-        "text_t8VHhw": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Stone's Honey Choc-ney is a delicious fusion of two great flavours, combining the smooth, velvety taste of chocolate with the natural sweetness of honey. Made with just two ingredients - pure Stone's Honey Devon honey and organic raw cacao - Choc-ney brings a twist to traditional honey.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_mKEdM9": {
-          "type": "button",
-          "settings": {
-            "button_label": "Buy Now",
-            "button_link": "shopify://products/stones-honey-choc-ney-360g",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_r6Qrma",
-        "text_t8VHhw",
-        "button_mKEdM9"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Collage_2024-04-01_21_11_39.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "scheme-9dac617e-5de1-48a5-985b-947008bdae63",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -313,88 +313,17 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "featured_product_CfyKyt": {
-      "type": "featured-product",
-      "blocks": {
-        "text_EdCfYx": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "title_3WUWfG": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "price_QXAEJB": {
-          "type": "price",
-          "settings": {}
-        },
-        "variant_picker_PAPrcC": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button",
-            "swatch_shape": "circle"
-          }
-        },
-        "quantity_selector_BNUk94": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "buy_buttons_aMQjpx": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
-          }
-        },
-        "share_hmhJnf": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "text_EdCfYx",
-        "title_3WUWfG",
-        "price_QXAEJB",
-        "variant_picker_PAPrcC",
-        "quantity_selector_BNUk94",
-        "buy_buttons_aMQjpx",
-        "share_hmhJnf"
-      ],
-      "name": "t:sections.featured-product.presets.name",
-      "settings": {
-        "product": "devon-cut-comb-honey-100-pure-raw-honeycomb-min-170g",
-        "color_scheme": "",
-        "secondary_background": false,
-        "media_size": "medium",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "media_position": "left",
-        "image_zoom": "lightbox",
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "image_banner",
     "rich_text",
+    "image_with_text_kHbMRg",
     "image_with_text_i9xNQi",
     "image_with_text_VqHntA",
-    "image_with_text_kHbMRg",
     "image_with_text_rWgydw",
     "featured_collection",
     "featured_blog_Mfdhw6",
-    "featured_blog_BwUxAt",
-    "featured_product_CfyKyt"
+    "featured_blog_BwUxAt"
   ]
 }
