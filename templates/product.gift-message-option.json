@@ -27,6 +27,18 @@
           "type": "price",
           "settings": {}
         },
+        "subscriptions_app_block_4fWpqG": {
+          "type": "shopify://apps/subscriptions/blocks/app-block/a3bfe9ec-96f8-4508-a003-df608a36d2ad",
+          "settings": {
+            "color_text_body": "#6D7175",
+            "dividers_color": "#8F8D8D",
+            "bacgkround_color": "#FFFFFF",
+            "border_thickness": 1,
+            "border_radius": 0,
+            "subscription_policy_url": "",
+            "product": "{{product}}"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -60,30 +72,18 @@
         "description": {
           "type": "description",
           "settings": {}
-        },
-        "subscriptions_app_block_4fWpqG": {
-          "type": "shopify://apps/subscriptions/blocks/app-block/a3bfe9ec-96f8-4508-a003-df608a36d2ad",
-          "settings": {
-            "color_text_body": "#6D7175",
-            "dividers_color": "#8F8D8D",
-            "bacgkround_color": "#FFFFFF",
-            "border_thickness": 1,
-            "border_radius": 0,
-            "subscription_policy_url": "",
-            "product": "{{product}}"
-          }
         }
       },
       "block_order": [
         "title",
         "caption",
         "price",
+        "subscriptions_app_block_4fWpqG",
         "variant_picker",
         "quantity_selector",
         "icon_with_text_knYigV",
         "buy_buttons",
-        "description",
-        "subscriptions_app_block_4fWpqG"
+        "description"
       ],
       "custom_css": [
         ".icon-with-text .inline-richtext {font-size: 12px;}"
