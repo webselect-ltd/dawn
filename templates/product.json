@@ -68,18 +68,6 @@
         "judge_me_reviews_preview_badge_qbfEBV": {
           "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {}
-        },
-        "subscriptions_app_block_EdxRmU": {
-          "type": "shopify://apps/subscriptions/blocks/app-block/a3bfe9ec-96f8-4508-a003-df608a36d2ad",
-          "settings": {
-            "color_text_body": "#6D7175",
-            "dividers_color": "#8F8D8D",
-            "bacgkround_color": "#FFFFFF",
-            "border_thickness": 1,
-            "border_radius": 0,
-            "subscription_policy_url": "",
-            "product": "{{product}}"
-          }
         }
       },
       "block_order": [
@@ -92,8 +80,7 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "judge_me_reviews_preview_badge_qbfEBV",
-        "subscriptions_app_block_EdxRmU"
+        "judge_me_reviews_preview_badge_qbfEBV"
       ],
       "settings": {
         "enable_sticky_info": true,
