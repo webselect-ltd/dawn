@@ -27,6 +27,10 @@
             "text_style": "subtitle"
           }
         },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
         "subscriptions_app_block_PxjVnM": {
           "type": "shopify://apps/subscriptions/blocks/app-block/a3bfe9ec-96f8-4508-a003-df608a36d2ad",
           "settings": {
@@ -38,10 +42,6 @@
             "subscription_policy_url": "",
             "product": "{{product}}"
           }
-        },
-        "price": {
-          "type": "price",
-          "settings": {}
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -74,8 +74,8 @@
         "title",
         "judge_me_reviews_preview_badge_HFk99L",
         "caption",
-        "subscriptions_app_block_PxjVnM",
         "price",
+        "subscriptions_app_block_PxjVnM",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
