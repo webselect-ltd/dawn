@@ -1,8 +1,17 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
-    "logo": "shopify:\/\/shop_images\/logo-yellow.svg",
+    "logo": "shopify://shop_images/logo-yellow.svg",
     "logo_width": 160,
-    "favicon": "shopify:\/\/shop_images\/bee-icon.png",
+    "favicon": "shopify://shop_images/bee-icon.png",
     "type_header_font": "assistant_n4",
     "heading_scale": 100,
     "type_body_font": "lato_n4",
@@ -96,8 +105,8 @@
     "badge_corner_radius": 40,
     "sale_badge_color_scheme": "scheme-9dac617e-5de1-48a5-985b-947008bdae63",
     "sold_out_badge_color_scheme": "scheme-3",
-    "social_facebook_link": "https:\/\/www.facebook.com\/Stoneshoneyuk\/",
-    "social_instagram_link": "https:\/\/www.instagram.com\/stones.honey\/",
+    "social_facebook_link": "https://www.facebook.com/Stoneshoneyuk/",
+    "social_instagram_link": "https://www.instagram.com/stones.honey/",
     "social_youtube_link": "",
     "social_tiktok_link": "",
     "social_twitter_link": "",
@@ -113,7 +122,7 @@
     "show_vendor": false,
     "show_cart_note": true,
     "cart_drawer_collection": "",
-    "checkout_logo_image": "shopify:\/\/shop_images\/Stones-Honey-Logo-Enfold-Orange_8d2e13c8-0c5f-4195-9afa-f31510fbc0de.png",
+    "checkout_logo_image": "shopify://shop_images/Stones-Honey-Logo-Enfold-Orange_8d2e13c8-0c5f-4195-9afa-f31510fbc0de.png",
     "checkout_body_background_color": "#ffffff",
     "checkout_input_background_color_mode": "white",
     "checkout_accent_color": "#1773b0",
@@ -131,14 +140,24 @@
         }
       }
     },
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "blocks": {
       "14060646107696862457": {
-        "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "type": "shopify://apps/judge-me-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": false,
+        "settings": {}
+      },
+      "1768834845299682660": {
+        "type": "shopify://apps/subscriptions/blocks/app-embed-block/a3bfe9ec-96f8-4508-a003-df608a36d2ad",
+        "disabled": true,
         "settings": {
+          "color_text_title": "#6D7175",
+          "color_text_body": "#6D7175",
+          "dividers_color": "#8F8D8D",
+          "bacgkround_color": "#FFFFFF",
+          "border_thickness": 1,
+          "border_radius": 0,
+          "subscription_policy_url": ""
         }
       }
     },
