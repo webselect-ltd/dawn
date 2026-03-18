@@ -3505,3 +3505,14 @@ details-disclosure > details {
     --border-offset: 0px; /* Prevent the border from growing on buttons when this effect is on. */
   }
 }
+/* Fix bullet point formatting in blog posts */
+article li p {
+  margin: 0;
+  padding: 0;
+  display: inline;
+}
+
+article li p + p {
+  display: block;
+  margin-top: 1em;
+}
