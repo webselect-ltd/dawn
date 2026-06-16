@@ -1,6 +1,345 @@
+{% doc %}
+  @prompt
+    Add a visual divider banner section within the Honey and Beeswax Soaps and Lip Balms collection page that separates soap products from lip balm products. The banner should display a heading such as "Lip Balms" to clearly signal the start of a new product category within the collection grid. It should match the store's existing style — clean, premium, and minimal.
+{% enddoc %}
+{% assign ai_gen_id = block.id | replace: '_', '' | downcase %}
+
+{% style %}
+  .ai-category-divider-{{ ai_gen_id }} {
+    display: block;
+    width: 100%;
+    padding: {{ block.settings.padding_top }}px 0 {{ block.settings.padding_bottom }}px;
+    background-color: {{ block.settings.background_color }};
+    text-align: {{ block.settings.text_alignment }};
+  }
+
+  .ai-category-divider__inner-{{ ai_gen_id }} {
+    max-width: {{ block.settings.container_width }}px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+
+  .ai-category-divider__heading-{{ ai_gen_id }} {
+    margin: 0;
+    font-size: {{ block.settings.heading_size }}px;
+    font-weight: {{ block.settings.heading_weight }};
+    color: {{ block.settings.heading_color }};
+    letter-spacing: {{ block.settings.letter_spacing }}px;
+    text-transform: {{ block.settings.text_transform }};
+    font-family: {{ block.settings.heading_font.family }}, {{ block.settings.heading_font.fallback_families }};
+    font-weight: {{ block.settings.heading_font.weight }};
+    font-style: {{ block.settings.heading_font.style }};
+  }
+
+  .ai-category-divider__subheading-{{ ai_gen_id }} {
+    margin: {{ block.settings.subheading_spacing }}px 0 0;
+    font-size: {{ block.settings.subheading_size }}px;
+    color: {{ block.settings.subheading_color }};
+    opacity: {{ block.settings.subheading_opacity }};
+  }
+
+  .ai-category-divider__line-{{ ai_gen_id }} {
+    height: {{ block.settings.line_thickness }}px;
+    background-color: {{ block.settings.line_color }};
+    opacity: {{ block.settings.line_opacity }};
+    margin: {{ block.settings.line_spacing }}px auto 0;
+    max-width: {{ block.settings.line_width }}%;
+  }
+
+  {% if block.settings.show_line_before %}
+    .ai-category-divider__line-before-{{ ai_gen_id }} {
+      height: {{ block.settings.line_thickness }}px;
+      background-color: {{ block.settings.line_color }};
+      opacity: {{ block.settings.line_opacity }};
+      margin: 0 auto {{ block.settings.line_spacing }}px;
+      max-width: {{ block.settings.line_width }}%;
+    }
+  {% endif %}
+
+  @media screen and (max-width: 749px) {
+    .ai-category-divider-{{ ai_gen_id }} {
+      padding: {{ block.settings.padding_top | times: 0.7 | round }}px 0 {{ block.settings.padding_bottom | times: 0.7 | round }}px;
+    }
+
+    .ai-category-divider__heading-{{ ai_gen_id }} {
+      font-size: {{ block.settings.heading_size | times: 0.8 | round }}px;
+    }
+
+    .ai-category-divider__subheading-{{ ai_gen_id }} {
+      font-size: {{ block.settings.subheading_size | times: 0.9 | round }}px;
+    }
+  }
+{% endstyle %}
+
+<div class="ai-category-divider-{{ ai_gen_id }}" {{ block.shopify_attributes }}>
+  <div class="ai-category-divider__inner-{{ ai_gen_id }}">
+    {% if block.settings.show_line_before %}
+      <div class="ai-category-divider__line-before-{{ ai_gen_id }}"></div>
+    {% endif %}
+
+    {% if block.settings.heading != blank %}
+      <h2 class="ai-category-divider__heading-{{ ai_gen_id }}">
+        {{ block.settings.heading }}
+      </h2>
+    {% endif %}
+
+    {% if block.settings.subheading != blank %}
+      <div class="ai-category-divider__subheading-{{ ai_gen_id }}">
+        {{ block.settings.subheading }}
+      </div>
+    {% endif %}
+
+    {% if block.settings.show_line_after %}
+      <div class="ai-category-divider__line-{{ ai_gen_id }}"></div>
+    {% endif %}
+  </div>
+</div>
+
 {% schema %}
- {
-   "name": "AI_Block",
-   "tag": "shopify-ai-generated-block"
- }
+{
+  "name": "Category divider",
+  "settings": [
+    {
+      "type": "header",
+      "content": "Content"
+    },
+    {
+      "type": "inline_richtext",
+      "id": "heading",
+      "label": "Heading",
+      "default": "Lip Balms"
+    },
+    {
+      "type": "inline_richtext",
+      "id": "subheading",
+      "label": "Subheading"
+    },
+    {
+      "type": "header",
+      "content": "Heading style"
+    },
+    {
+      "type": "font_picker",
+      "id": "heading_font",
+      "label": "Font",
+      "default": "assistant_n4"
+    },
+    {
+      "type": "range",
+      "id": "heading_size",
+      "min": 16,
+      "max": 60,
+      "step": 2,
+      "unit": "px",
+      "label": "Size",
+      "default": 32
+    },
+    {
+      "type": "select",
+      "id": "text_transform",
+      "label": "Text transform",
+      "options": [
+        {
+          "value": "none",
+          "label": "None"
+        },
+        {
+          "value": "uppercase",
+          "label": "Uppercase"
+        },
+        {
+          "value": "lowercase",
+          "label": "Lowercase"
+        },
+        {
+          "value": "capitalize",
+          "label": "Capitalize"
+        }
+      ],
+      "default": "none"
+    },
+    {
+      "type": "range",
+      "id": "letter_spacing",
+      "min": 0,
+      "max": 5,
+      "step": 0.5,
+      "unit": "px",
+      "label": "Letter spacing",
+      "default": 0
+    },
+    {
+      "type": "color",
+      "id": "heading_color",
+      "label": "Heading color",
+      "default": "#121212"
+    },
+    {
+      "type": "header",
+      "content": "Subheading style"
+    },
+    {
+      "type": "range",
+      "id": "subheading_size",
+      "min": 12,
+      "max": 24,
+      "step": 1,
+      "unit": "px",
+      "label": "Size",
+      "default": 14
+    },
+    {
+      "type": "color",
+      "id": "subheading_color",
+      "label": "Color",
+      "default": "#121212"
+    },
+    {
+      "type": "range",
+      "id": "subheading_opacity",
+      "min": 0,
+      "max": 1,
+      "step": 0.1,
+      "label": "Opacity",
+      "default": 0.7
+    },
+    {
+      "type": "range",
+      "id": "subheading_spacing",
+      "min": 4,
+      "max": 24,
+      "step": 2,
+      "unit": "px",
+      "label": "Spacing from heading",
+      "default": 8
+    },
+    {
+      "type": "header",
+      "content": "Divider line"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_line_before",
+      "label": "Show line before heading",
+      "default": false
+    },
+    {
+      "type": "checkbox",
+      "id": "show_line_after",
+      "label": "Show line after heading",
+      "default": true
+    },
+    {
+      "type": "range",
+      "id": "line_thickness",
+      "min": 1,
+      "max": 5,
+      "step": 1,
+      "unit": "px",
+      "label": "Line thickness",
+      "default": 1
+    },
+    {
+      "type": "range",
+      "id": "line_width",
+      "min": 5,
+      "max": 100,
+      "step": 5,
+      "unit": "%",
+      "label": "Line width",
+      "default": 10
+    },
+    {
+      "type": "color",
+      "id": "line_color",
+      "label": "Line color",
+      "default": "#121212"
+    },
+    {
+      "type": "range",
+      "id": "line_opacity",
+      "min": 0,
+      "max": 1,
+      "step": 0.1,
+      "label": "Line opacity",
+      "default": 0.2
+    },
+    {
+      "type": "range",
+      "id": "line_spacing",
+      "min": 8,
+      "max": 40,
+      "step": 2,
+      "unit": "px",
+      "label": "Line spacing",
+      "default": 16
+    },
+    {
+      "type": "header",
+      "content": "Layout"
+    },
+    {
+      "type": "select",
+      "id": "text_alignment",
+      "label": "Text alignment",
+      "options": [
+        {
+          "value": "left",
+          "label": "Left"
+        },
+        {
+          "value": "center",
+          "label": "Center"
+        },
+        {
+          "value": "right",
+          "label": "Right"
+        }
+      ],
+      "default": "center"
+    },
+    {
+      "type": "range",
+      "id": "container_width",
+      "min": 400,
+      "max": 1200,
+      "step": 50,
+      "unit": "px",
+      "label": "Container width",
+      "default": 1200
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "Padding top",
+      "default": 40
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "Padding bottom",
+      "default": 40
+    },
+    {
+      "type": "color",
+      "id": "background_color",
+      "label": "Background color",
+      "default": "#ffffff"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Category divider"
+    }
+  ],
+  "tag": null
+}
 {% endschema %}
