@@ -223,6 +223,49 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
+    },
+    "rich_text_67QqTN": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_g6C6Ai": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "text_q6Rgza": {
+          "type": "text",
+          "settings": {
+            "text": "<p>For 15 years we have been helping people go wild in their gardens and working with community groups, councils and landscapers across the UK. Our unique, professionally designed seed mixes transform monocultures into havens for wildlife.</p><p>We have grouped seeds in four categories below for ease of selection - all are designed to foster biodiversity, attracting birds, butterflies and bees; and the spellbinding impact of the displays is nothing short of inspirational, helping build a greater affinity with, and love of nature</p>"
+          }
+        },
+        "button_E3BTHw": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_g6C6Ai",
+        "text_q6Rgza",
+        "button_E3BTHw"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -233,6 +276,7 @@
     "bb506e34-0c4d-41f1-b3a5-5d72dc3aa380",
     "featured_blog_PKLWcG",
     "bc129793-3812-4eb2-813e-85f508776303",
-    "custom_liquid_NrpLMb"
+    "custom_liquid_NrpLMb",
+    "rich_text_67QqTN"
   ]
 }
