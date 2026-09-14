@@ -15,14 +15,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<a href=\"/products/aphid-control-seed-mix\" title=\"Aphid Control\">SPECIAL OFFER for September/October sowing</a>",
+            "heading": "Visit us at Wildflower Café",
             "heading_size": "h0"
           }
         },
         "text_NxDhEw": {
           "type": "text",
           "settings": {
-            "text": "<a href=\"/pages/events-2025\" title=\"Events\">For inspiration & advice - visit us at events throughout 2026 . . .</a>",
+            "text": "<a href=\"/pages/events-2025\" title=\"Events\">For inspiration & advice - see us at events throughout 2026 . . .</a>",
             "text_style": "subtitle"
           }
         }
