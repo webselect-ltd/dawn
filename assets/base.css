@@ -3515,4 +3515,13 @@ li p {
 li p + p {
   display: block;
   margin-top: 1em;
+}.product__description ul li,
+.product__description ol li {
+  padding-left: 0.25em;
 }
+
+.product__description ul,
+.product__description ol {
+  padding-left: 1.5em;
+}
+
